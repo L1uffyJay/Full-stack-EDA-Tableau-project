@@ -1,0 +1,9 @@
+field_name,tableau_formula
+Gross Margin $,[net_sales_usd] - [cost_usd]
+Gross Margin %,([net_sales_usd] - [cost_usd]) / [net_sales_usd]
+Late Flag,IF [actual_delivery_date] > [promised_delivery_date] THEN 1 ELSE 0 END
+Delivery Delay Days,"DATEDIFF('day',[promised_delivery_date],[actual_delivery_date])"
+Return Rate,AVG(INT([returned_flag]))
+Average Satisfaction,AVG([satisfaction_score])
+Orders,COUNTD([order_id])
+Customers,COUNTD([customer_id])

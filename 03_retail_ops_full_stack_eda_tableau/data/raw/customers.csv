@@ -1,0 +1,1801 @@
+customer_id,first_order_date,customer_country,account_tier,acquisition_motion,account_status
+C30000,2025-05-19,AU,Enterprise,Inbound,Churned
+C30001,2024-06-18,US,Startup,Self-Serve,Churned
+C30002,2025-06-03,IN,Enterprise,self-serve,At Risk
+C30003,2024-05-20,CA,,Outbound,Active
+C30004,2024-11-05,US,Startup,Self-Serve,Active
+C30004,2025-07-28,FR,Startup,Self-Serve,active
+C30006,10/22/2025,US,Startup,self-serve,Churned
+C30007,2024-04-21,IN,Enterprise,Outbound,At Risk
+C30008,2024-03-27,CA,,self-serve,Active
+C30009,2025-05-15,CA,Enterprise,Self-Serve,Active
+C30010,06/03/2025,DE,,Partner,Active
+C30011,2025-03-28,FR,Mid Market,self-serve,Active
+C30012,2025-05-25,AU,Enterprise,Outbound,Churned
+C30013,2024-07-29,DE,Startup,Inbound,At Risk
+C30014,2024-04-02,IN,Enterprise,Outbound,active
+C30015,2025-10-21,,,self-serve,Churned
+C30016,05/18/2024,,,Inbound,active
+C30017,2025-07-20,US,Small Business,Outbound,active
+C30018,2025-05-09,,Startup,Inbound,active
+C30019,2025-03-10,DE,Mid Market,Outbound,Churned
+C30020,2024-12-31,IN,,Partner,active
+C30021,2025-05-30,UK,Enterprise,Self-Serve,active
+C30022,2024-06-09,,Small Business,self-serve,Churned
+C30023,2024-05-03,FR,Startup,Inbound,Churned
+C30024,2025-03-17,IN,Mid Market,Outbound,At Risk
+C30025,2024-09-27,CA,Small Business,Outbound,Active
+C30026,2025-11-11,FR,Startup,Partner,Churned
+C30027,2025-04-29,AU,Enterprise,Outbound,At Risk
+C30028,2025-01-18,UK,,Inbound,Churned
+C30029,2025-02-21,FR,Startup,self-serve,active
+C30030,2024-04-21,AU,Mid Market,Outbound,active
+C30031,2024-12-14,FR,,Partner,Churned
+C30032,10/19/2024,DE,Small Business,Partner,Churned
+C30033,2024-12-25,,Small Business,Inbound,active
+C30034,2025-02-02,US,,Outbound,At Risk
+C30035,2025-08-11,AU,Enterprise,Inbound,Active
+C30036,2024-08-03,CA,Enterprise,Self-Serve,Active
+C30037,2025-11-18,,Small Business,Outbound,active
+C30038,2024-07-22,AU,Small Business,Partner,At Risk
+C30039,2024-06-09,US,Small Business,Inbound,active
+C30040,2024-10-10,DE,Small Business,Inbound,At Risk
+C30041,2025-04-05,DE,Enterprise,Inbound,At Risk
+C30042,2024-07-17,,Mid Market,Partner,active
+C30043,2024-06-22,CA,Small Business,self-serve,Active
+C30044,2024-06-19,DE,Small Business,Inbound,active
+C30045,2024-03-29,AU,,Partner,active
+C30046,2025-07-05,DE,Small Business,Outbound,At Risk
+C30047,2024-05-03,CA,Enterprise,self-serve,active
+C30048,2024-08-04,,Mid Market,Inbound,At Risk
+C30049,2024-11-03,UK,Enterprise,Outbound,Active
+C30050,2024-05-23,AU,Small Business,Outbound,Active
+C30051,2024-02-04,AU,Small Business,Partner,Churned
+C30052,2025-09-03,US,Startup,Inbound,Churned
+C30053,2024-08-18,US,Small Business,Outbound,Active
+C30054,2024-02-07,CA,Mid Market,Partner,At Risk
+C30055,2025-09-12,US,Startup,Partner,At Risk
+C30056,2025-02-22,IN,Small Business,Outbound,Churned
+C30057,2024-10-30,IN,Startup,self-serve,Active
+C30058,2024-06-30,,,Inbound,Churned
+C30059,2025-09-30,FR,,self-serve,At Risk
+C30060,2025-01-19,US,Enterprise,self-serve,active
+C30061,2024-03-19,IN,Small Business,Outbound,Active
+C30062,2024-04-11,IN,Mid Market,Partner,Churned
+C30063,2024-06-29,US,Small Business,Outbound,Churned
+C30064,2024-02-25,IN,Startup,self-serve,active
+C30065,09/11/2025,FR,Mid Market,Inbound,Active
+C30066,2025-10-09,CA,Enterprise,Self-Serve,Churned
+C30067,2024-07-22,US,,Outbound,active
+C30068,2024-12-07,,Small Business,Self-Serve,Active
+C30069,2024-09-12,CA,Enterprise,Inbound,At Risk
+C30070,2024-04-16,FR,Enterprise,Inbound,Active
+C30071,2025-06-10,CA,Mid Market,Partner,At Risk
+C30072,2024-11-14,,,Partner,At Risk
+C30073,2024-01-04,FR,Startup,Partner,At Risk
+C30074,2024-04-17,CA,,self-serve,active
+C30075,2024-10-26,UK,Mid Market,Outbound,At Risk
+C30076,2025-06-02,UK,Enterprise,Outbound,At Risk
+C30077,2024-10-12,US,Startup,Inbound,Active
+C30078,2024-01-09,FR,Enterprise,Self-Serve,Churned
+C30079,2024-11-25,FR,,Self-Serve,active
+C30080,08/22/2025,UK,Startup,Partner,active
+C30081,12/23/2024,CA,,Inbound,At Risk
+C30082,2024-02-22,CA,Small Business,Self-Serve,Active
+C30083,2025-07-18,CA,Small Business,Partner,At Risk
+C30084,06/24/2025,CA,Startup,Inbound,At Risk
+C30085,2025-01-30,AU,Enterprise,Outbound,Active
+C30086,2024-12-21,US,Startup,self-serve,At Risk
+C30087,2025-05-06,FR,Startup,Self-Serve,Active
+C30088,2024-02-24,,,Inbound,At Risk
+C30089,2025-04-08,US,Enterprise,self-serve,active
+C30090,03/20/2025,DE,Enterprise,self-serve,At Risk
+C30091,2024-02-27,,Enterprise,Partner,Active
+C30092,2025-10-01,IN,Enterprise,Inbound,Churned
+C30093,2025-04-08,CA,Mid Market,Outbound,Churned
+C30094,02/12/2025,AU,Small Business,Inbound,At Risk
+C30095,2025-07-15,AU,,Outbound,At Risk
+C30096,08/25/2024,AU,Startup,Inbound,active
+C30097,2025-03-23,AU,Mid Market,Self-Serve,Active
+C30098,2024-01-19,CA,,Inbound,Churned
+C30099,2024-08-03,,Enterprise,Inbound,active
+C30100,02/04/2024,IN,Mid Market,Self-Serve,Active
+C30101,2024-02-15,,,Partner,Active
+C30102,2024-05-11,,Enterprise,self-serve,Active
+C30103,2024-07-27,DE,Small Business,Outbound,active
+C30104,2024-04-14,US,Small Business,Inbound,active
+C30105,2024-10-05,AU,Startup,self-serve,Active
+C30106,2024-01-24,US,Mid Market,Outbound,Active
+C30107,2024-04-04,AU,,Partner,Churned
+C30108,2025-03-10,DE,Mid Market,Outbound,Active
+C30109,2024-02-25,CA,Small Business,Inbound,active
+C30110,2025-03-11,,Mid Market,self-serve,At Risk
+C30111,2024-08-08,FR,Mid Market,Outbound,At Risk
+C30112,2024-09-15,US,Mid Market,Self-Serve,Churned
+C30113,2025-03-31,,Startup,Self-Serve,Churned
+C30114,2024-02-23,IN,Startup,Partner,active
+C30115,2024-07-31,UK,,Inbound,Churned
+C30116,2024-10-22,IN,Small Business,Inbound,active
+C30117,2024-11-24,AU,Mid Market,Self-Serve,active
+C30118,2025-10-25,CA,Small Business,Inbound,At Risk
+C30119,2024-05-25,AU,Small Business,Inbound,active
+C30120,2025-02-16,DE,Small Business,Partner,Active
+C30121,2024-06-12,FR,Small Business,Inbound,active
+C30122,2025-03-10,CA,Small Business,Outbound,Active
+C30123,2024-02-29,US,,self-serve,active
+C30124,11/10/2025,FR,Mid Market,Partner,Churned
+C30125,2025-06-21,,,Inbound,active
+C30126,2024-10-03,UK,Mid Market,Partner,Churned
+C30127,2025-01-20,IN,Small Business,Outbound,active
+C30128,2024-06-15,IN,Mid Market,Outbound,At Risk
+C30129,2024-12-30,US,Small Business,Partner,At Risk
+C30130,2024-08-03,,Enterprise,Partner,Active
+C30131,2025-05-29,CA,Mid Market,Partner,Active
+C30132,2024-02-06,IN,Small Business,Inbound,active
+C30133,2024-04-27,IN,,self-serve,At Risk
+C30134,2024-02-20,UK,,self-serve,At Risk
+C30135,2025-11-13,UK,Mid Market,Partner,Churned
+C30136,2025-11-14,,Enterprise,Partner,Churned
+C30137,2025-08-05,FR,Enterprise,Inbound,Churned
+C30138,2024-05-13,DE,Enterprise,Partner,At Risk
+C30139,2024-06-15,CA,Startup,Partner,At Risk
+C30140,2025-08-17,DE,Startup,self-serve,Churned
+C30141,2024-06-04,AU,Enterprise,Outbound,active
+C30142,2025-07-16,UK,,self-serve,Churned
+C30143,2024-11-04,DE,,Self-Serve,At Risk
+C30144,2025-10-27,AU,Enterprise,self-serve,active
+C30145,2024-07-02,IN,Small Business,Outbound,Active
+C30146,2025-04-20,DE,,Partner,At Risk
+C30147,2025-11-09,US,Mid Market,Partner,Churned
+C30148,04/15/2024,,Enterprise,Partner,active
+C30149,2024-06-11,IN,Startup,Self-Serve,Active
+C30150,2024-10-11,DE,Small Business,Outbound,Active
+C30151,2025-04-25,UK,Enterprise,Inbound,Churned
+C30152,05/30/2024,AU,Small Business,Self-Serve,Active
+C30153,2025-07-21,IN,Enterprise,self-serve,Active
+C30154,03/09/2024,FR,Mid Market,Self-Serve,At Risk
+C30155,2024-06-22,,Small Business,Partner,Churned
+C30156,2025-09-09,CA,,Partner,At Risk
+C30157,2025-01-28,CA,Startup,self-serve,Active
+C30158,2024-04-23,DE,Mid Market,Inbound,Active
+C30159,2024-11-16,US,Enterprise,Self-Serve,Active
+C30160,2024-06-13,US,Small Business,self-serve,active
+C30161,2025-02-23,,Mid Market,self-serve,Active
+C30162,2025-01-06,,Mid Market,Partner,Churned
+C30163,2025-03-02,UK,Enterprise,Self-Serve,Active
+C30164,2024-08-09,,Enterprise,Outbound,At Risk
+C30165,2025-08-16,US,Enterprise,Partner,active
+C30166,2025-04-02,IN,Startup,Inbound,At Risk
+C30167,2025-02-03,CA,,Outbound,Active
+C30168,2025-04-02,CA,Small Business,Self-Serve,At Risk
+C30169,2025-05-10,,Small Business,self-serve,Churned
+C30170,2024-04-17,FR,,Self-Serve,At Risk
+C30171,2024-09-03,DE,,Inbound,Churned
+C30172,01/10/2025,FR,Enterprise,Self-Serve,Active
+C30173,2024-12-05,UK,Enterprise,self-serve,Active
+C30174,2024-11-28,US,Enterprise,Outbound,At Risk
+C30175,2024-12-06,CA,Mid Market,Self-Serve,Active
+C30176,2024-11-09,DE,Small Business,self-serve,Churned
+C30177,2024-03-26,FR,Enterprise,self-serve,Active
+C30178,2025-09-28,IN,,self-serve,Churned
+C30179,2025-03-04,DE,,Partner,active
+C30180,2025-11-20,IN,Small Business,Partner,Active
+C30181,2025-06-03,IN,Enterprise,Inbound,Churned
+C30182,2025-01-30,AU,Enterprise,Partner,Churned
+C30183,2025-03-10,UK,,Inbound,At Risk
+C30184,08/10/2025,FR,,self-serve,Churned
+C30185,2024-05-07,AU,Startup,Inbound,active
+C30186,2024-01-14,AU,Mid Market,Partner,At Risk
+C30187,03/06/2025,FR,Enterprise,Outbound,At Risk
+C30188,2025-11-09,UK,Small Business,Inbound,At Risk
+C30189,2024-03-15,US,,Self-Serve,active
+C30190,2024-02-03,FR,Mid Market,Self-Serve,Active
+C30191,2024-02-09,DE,Mid Market,Outbound,active
+C30192,2024-01-13,FR,Small Business,Outbound,Churned
+C30193,2025-01-04,DE,Small Business,Outbound,Churned
+C30194,2024-10-04,US,Small Business,Inbound,At Risk
+C30195,2025-05-22,UK,Enterprise,Partner,At Risk
+C30196,2025-08-14,,Small Business,self-serve,Active
+C30197,2024-12-16,DE,Small Business,self-serve,active
+C30198,2025-08-08,UK,Mid Market,self-serve,active
+C30199,10/20/2025,US,Small Business,Inbound,Active
+C30200,2025-02-17,IN,Enterprise,Inbound,Active
+C30201,2024-07-22,IN,Enterprise,Self-Serve,Active
+C30202,2025-02-01,AU,,Inbound,Churned
+C30203,2025-11-19,DE,Enterprise,self-serve,active
+C30204,2025-09-14,AU,Small Business,Outbound,active
+C30205,2025-08-02,UK,Small Business,Inbound,Active
+C30206,2024-03-15,US,Small Business,Inbound,Active
+C30207,06/18/2024,DE,,Outbound,Active
+C30208,03/22/2024,AU,Startup,Inbound,Active
+C30209,2024-06-20,US,,Partner,Active
+C30210,2024-11-29,DE,Small Business,self-serve,Churned
+C30211,2024-04-07,,,Self-Serve,Churned
+C30212,2024-05-18,DE,Startup,Outbound,Churned
+C30213,2024-03-14,AU,Startup,self-serve,At Risk
+C30214,2025-09-12,CA,Startup,self-serve,At Risk
+C30215,2024-07-29,DE,,Inbound,Churned
+C30216,2025-02-14,DE,Mid Market,Outbound,Churned
+C30217,2024-06-09,UK,Enterprise,Self-Serve,Active
+C30218,2025-10-14,FR,Enterprise,Outbound,Churned
+C30219,2024-09-08,IN,Startup,Partner,At Risk
+C30220,2024-12-22,AU,Startup,Self-Serve,Active
+C30221,2025-01-03,US,,Outbound,At Risk
+C30222,2025-11-23,CA,Startup,Inbound,active
+C30223,03/10/2025,UK,Mid Market,Outbound,At Risk
+C30224,2024-01-19,AU,Enterprise,Partner,Active
+C30225,11/17/2025,US,,self-serve,Active
+C30226,2025-01-02,US,Startup,Partner,At Risk
+C30227,2025-08-13,CA,Mid Market,Self-Serve,active
+C30228,2024-10-16,DE,Small Business,Outbound,Active
+C30229,2025-05-28,FR,Startup,Partner,Churned
+C30230,2024-11-06,AU,Startup,self-serve,Active
+C30231,2024-04-17,,Small Business,Outbound,Churned
+C30232,2024-08-06,FR,Small Business,self-serve,Churned
+C30233,2025-05-26,UK,Mid Market,Outbound,Churned
+C30234,05/19/2024,FR,,Partner,Active
+C30235,2024-07-23,,Small Business,Partner,Churned
+C30236,2025-03-12,AU,Mid Market,Inbound,Churned
+C30237,2024-11-21,AU,Enterprise,Outbound,active
+C30238,2024-08-12,AU,Enterprise,Outbound,active
+C30239,2024-03-11,,Small Business,Partner,active
+C30240,2025-05-24,CA,,self-serve,At Risk
+C30241,2025-08-04,US,,Partner,At Risk
+C30242,2025-11-05,US,,Partner,active
+C30243,2024-09-01,FR,Small Business,Self-Serve,Churned
+C30244,2024-07-15,UK,Small Business,Inbound,Churned
+C30245,2025-09-11,UK,Mid Market,Inbound,Churned
+C30246,2025-02-21,,Enterprise,Inbound,active
+C30247,2025-07-22,UK,Enterprise,self-serve,At Risk
+C30248,2025-01-06,UK,Small Business,Partner,At Risk
+C30249,2025-11-25,AU,,Partner,active
+C30250,2024-06-29,CA,Startup,self-serve,Active
+C30251,2025-10-22,IN,Startup,Partner,At Risk
+C30252,2024-06-08,UK,,Outbound,Churned
+C30253,2025-08-02,AU,Enterprise,Partner,Churned
+C30254,2024-09-13,AU,Mid Market,Inbound,active
+C30255,2025-04-04,FR,,self-serve,Churned
+C30256,2024-07-11,US,Small Business,Outbound,At Risk
+C30257,2024-11-03,FR,,Self-Serve,Active
+C30258,2025-02-25,AU,,self-serve,Active
+C30259,2024-05-19,CA,,Self-Serve,Active
+C30260,2025-08-10,IN,Startup,Partner,Active
+C30261,2025-03-09,,Enterprise,Inbound,At Risk
+C30262,2025-11-09,US,,Partner,At Risk
+C30263,06/17/2024,IN,Enterprise,Inbound,active
+C30264,2025-11-29,CA,Startup,Self-Serve,At Risk
+C30265,2024-09-02,UK,Mid Market,Self-Serve,active
+C30266,2025-08-10,UK,Enterprise,Inbound,Churned
+C30267,2024-01-16,AU,Enterprise,Inbound,Active
+C30268,2025-04-15,IN,Startup,self-serve,active
+C30269,2025-09-28,US,Startup,Outbound,Churned
+C30270,2025-10-06,UK,Enterprise,Partner,At Risk
+C30271,2024-03-24,FR,Small Business,Self-Serve,Active
+C30272,2025-02-24,IN,Enterprise,Outbound,At Risk
+C30273,2024-01-09,US,Enterprise,Self-Serve,At Risk
+C30274,2025-03-25,FR,,Inbound,Churned
+C30275,2024-04-13,,Small Business,Inbound,At Risk
+C30276,2024-10-29,US,Enterprise,Outbound,At Risk
+C30277,2024-09-09,DE,Mid Market,Outbound,active
+C30278,2024-02-20,US,Small Business,Outbound,active
+C30279,2025-06-06,IN,Mid Market,Self-Serve,Churned
+C30280,2024-08-14,FR,Enterprise,Inbound,At Risk
+C30281,2024-07-13,US,Enterprise,Inbound,Active
+C30282,2024-05-14,CA,Mid Market,Inbound,Churned
+C30283,2024-01-08,US,Mid Market,Outbound,active
+C30284,2024-08-14,IN,Mid Market,Partner,Churned
+C30285,2024-10-23,FR,Enterprise,Inbound,active
+C30286,2024-01-23,DE,,Self-Serve,At Risk
+C30287,2024-10-04,US,Startup,Outbound,At Risk
+C30288,2024-11-01,UK,Mid Market,Self-Serve,active
+C30289,2024-09-30,FR,Small Business,self-serve,active
+C30290,2024-05-11,IN,Mid Market,Partner,active
+C30291,2024-09-05,DE,Small Business,Inbound,Active
+C30292,2024-08-19,IN,Mid Market,Self-Serve,At Risk
+C30293,2025-08-24,FR,Small Business,self-serve,Active
+C30294,2024-05-10,UK,,self-serve,Active
+C30295,06/24/2024,AU,,Inbound,Churned
+C30296,2024-05-29,FR,Small Business,Self-Serve,At Risk
+C30297,2024-11-18,FR,Enterprise,Outbound,active
+C30298,2025-10-16,AU,Startup,Partner,active
+C30299,2024-10-19,,Enterprise,Outbound,Active
+C30300,2024-01-23,IN,,Partner,active
+C30301,2025-10-28,FR,Enterprise,Outbound,active
+C30302,08/20/2025,,Startup,Partner,Active
+C30303,2025-06-18,IN,Startup,Self-Serve,At Risk
+C30304,2024-12-11,DE,Enterprise,Outbound,Active
+C30305,2025-01-30,UK,Enterprise,Self-Serve,Churned
+C30306,2025-02-06,AU,Small Business,Inbound,Active
+C30307,2024-11-30,UK,,Inbound,Churned
+C30308,2024-06-10,US,Small Business,self-serve,active
+C30309,2025-02-14,FR,Startup,Outbound,active
+C30310,2025-08-03,IN,,Self-Serve,active
+C30311,2024-07-19,IN,Small Business,Self-Serve,active
+C30312,2024-09-03,,,self-serve,active
+C30313,2024-03-17,IN,Small Business,Inbound,At Risk
+C30314,2024-03-26,DE,Startup,Outbound,Churned
+C30315,2025-10-08,CA,Startup,Self-Serve,Churned
+C30316,2025-03-13,FR,Enterprise,Outbound,At Risk
+C30317,2025-05-26,CA,,self-serve,At Risk
+C30318,2024-08-15,IN,Small Business,Partner,Churned
+C30319,2025-01-30,AU,,Self-Serve,active
+C30320,2024-05-25,IN,Small Business,self-serve,Active
+C30321,2024-05-24,UK,Enterprise,Self-Serve,Active
+C30322,2024-07-22,AU,Small Business,Inbound,At Risk
+C30323,2024-08-15,FR,Small Business,Partner,Active
+C30324,2024-12-16,UK,Mid Market,Inbound,Active
+C30325,2024-11-21,IN,Mid Market,Self-Serve,At Risk
+C30326,2024-11-07,,Mid Market,Outbound,Active
+C30327,2024-09-09,AU,Enterprise,self-serve,Active
+C30328,2025-01-18,FR,,Partner,active
+C30329,2025-11-20,FR,Mid Market,Self-Serve,At Risk
+C30330,2024-02-07,US,Enterprise,Partner,Active
+C30331,2024-03-01,,Small Business,Partner,Active
+C30332,2025-05-09,,Enterprise,Outbound,Active
+C30333,2024-05-20,US,Mid Market,self-serve,At Risk
+C30334,2025-06-24,,Enterprise,Inbound,active
+C30335,04/21/2024,FR,Mid Market,Outbound,active
+C30336,2024-12-23,CA,,Outbound,Active
+C30337,01/15/2025,US,,Self-Serve,At Risk
+C30338,2025-08-21,,Small Business,Partner,Active
+C30339,2025-09-19,US,Enterprise,Partner,At Risk
+C30340,2024-02-28,US,Enterprise,Inbound,Churned
+C30341,2025-02-17,,,Outbound,active
+C30342,2025-01-10,UK,Small Business,self-serve,Active
+C30343,2025-04-26,FR,Enterprise,Outbound,Active
+C30344,2024-07-27,DE,Small Business,Outbound,active
+C30345,2025-07-25,FR,Mid Market,Outbound,Active
+C30346,2024-10-18,,Enterprise,Outbound,Active
+C30347,2024-08-08,AU,Mid Market,self-serve,Churned
+C30348,2025-06-01,US,,self-serve,At Risk
+C30349,2025-06-09,AU,Mid Market,Partner,At Risk
+C30350,2024-11-20,FR,Enterprise,Inbound,At Risk
+C30351,2024-08-12,DE,,self-serve,active
+C30352,2024-04-11,,,Self-Serve,Active
+C30353,2024-05-03,CA,Enterprise,Partner,At Risk
+C30354,2024-08-14,UK,Mid Market,Self-Serve,Active
+C30355,2025-07-08,CA,Mid Market,Inbound,Active
+C30356,2024-12-12,US,Small Business,Inbound,Churned
+C30357,2024-07-18,CA,Startup,Partner,Active
+C30358,2025-01-01,AU,Enterprise,Partner,Active
+C30359,2024-12-03,DE,Enterprise,Outbound,Churned
+C30360,07/28/2025,,Mid Market,self-serve,At Risk
+C30361,2024-03-23,CA,Mid Market,self-serve,active
+C30362,2024-03-28,DE,,Self-Serve,Churned
+C30363,2024-06-14,DE,Small Business,Outbound,active
+C30364,2025-10-09,IN,Startup,Outbound,Churned
+C30365,2024-03-18,UK,,self-serve,At Risk
+C30366,2025-08-22,UK,,Inbound,active
+C30367,2025-04-20,DE,Startup,Partner,Active
+C30368,2024-11-20,CA,Enterprise,Inbound,active
+C30369,2024-07-22,AU,Small Business,Outbound,active
+C30370,04/01/2025,IN,,self-serve,Churned
+C30371,2025-03-29,FR,Mid Market,Outbound,Active
+C30372,2024-10-30,FR,Enterprise,Self-Serve,active
+C30373,2024-08-09,,Mid Market,Inbound,active
+C30374,2025-11-30,CA,Small Business,Self-Serve,Active
+C30375,2025-09-10,IN,Enterprise,Outbound,Active
+C30376,2025-02-16,IN,,Outbound,Churned
+C30377,2025-04-07,FR,Enterprise,Self-Serve,At Risk
+C30378,2024-12-11,CA,,Partner,Churned
+C30379,2024-07-25,CA,Startup,Partner,active
+C30380,2024-10-11,,Enterprise,self-serve,Churned
+C30381,2024-08-27,AU,Small Business,self-serve,At Risk
+C30382,05/31/2024,US,Small Business,Partner,Churned
+C30383,2025-06-20,US,Small Business,Partner,active
+C30384,2024-04-04,FR,Mid Market,Self-Serve,At Risk
+C30385,08/22/2025,UK,Startup,Partner,At Risk
+C30386,2025-01-27,UK,Mid Market,Partner,active
+C30387,2024-06-27,FR,Small Business,Inbound,At Risk
+C30388,2025-10-05,CA,Startup,Self-Serve,active
+C30389,05/25/2024,CA,Enterprise,self-serve,Active
+C30390,2025-05-26,IN,Startup,Inbound,At Risk
+C30391,2024-07-23,US,,self-serve,active
+C30392,2024-03-25,CA,Mid Market,self-serve,Active
+C30393,2024-09-22,CA,Mid Market,self-serve,Churned
+C30394,06/04/2024,AU,Startup,Self-Serve,active
+C30395,2024-02-20,FR,,Outbound,active
+C30396,2024-01-06,IN,Enterprise,self-serve,Churned
+C30397,2025-05-20,,Startup,Partner,Active
+C30398,2024-09-02,UK,Startup,Inbound,Active
+C30399,2025-01-09,FR,Enterprise,Outbound,At Risk
+C30400,2024-07-17,IN,Enterprise,Self-Serve,active
+C30401,2024-06-03,CA,,Partner,Active
+C30402,2025-01-17,AU,Enterprise,self-serve,Churned
+C30403,2025-01-30,FR,Enterprise,Self-Serve,Churned
+C30404,2025-09-12,FR,,Inbound,Active
+C30405,2024-10-26,,Mid Market,Partner,active
+C30406,2024-12-27,US,Mid Market,Self-Serve,Active
+C30407,2024-08-10,DE,Small Business,Partner,Active
+C30408,2024-09-29,US,Mid Market,Outbound,At Risk
+C30409,2024-07-11,DE,Mid Market,Partner,Active
+C30410,02/25/2024,,Mid Market,Self-Serve,active
+C30411,2024-08-18,US,Small Business,Inbound,At Risk
+C30412,2024-12-11,CA,Enterprise,self-serve,active
+C30413,2025-01-19,,Small Business,self-serve,Active
+C30414,2024-07-05,IN,Small Business,Partner,Churned
+C30415,2024-11-19,FR,Small Business,Inbound,Active
+C30416,2025-11-22,UK,,Partner,Active
+C30417,2024-07-05,CA,,Inbound,At Risk
+C30418,2025-08-07,,Enterprise,Inbound,active
+C30419,2025-07-25,UK,Mid Market,Partner,Churned
+C30420,02/15/2024,AU,Mid Market,Self-Serve,Churned
+C30421,2024-02-21,CA,,Partner,At Risk
+C30422,2025-09-06,DE,Small Business,Outbound,active
+C30423,2024-01-10,FR,Small Business,Inbound,active
+C30424,2024-09-04,AU,Small Business,Outbound,Active
+C30425,2025-01-14,,Startup,Partner,active
+C30426,2025-01-22,US,,Partner,active
+C30427,2025-01-27,UK,Small Business,Outbound,At Risk
+C30428,2025-04-11,CA,Mid Market,Inbound,At Risk
+C30429,2024-08-10,CA,Enterprise,Partner,Active
+C30430,2024-04-26,,Enterprise,Outbound,At Risk
+C30431,2024-05-31,US,Mid Market,Inbound,Churned
+C30432,2024-03-22,AU,Mid Market,Outbound,active
+C30433,2024-05-30,FR,Startup,Outbound,At Risk
+C30434,2025-03-29,AU,Enterprise,Partner,active
+C30435,2025-08-25,DE,Startup,Self-Serve,active
+C30436,2024-02-20,DE,Small Business,Outbound,At Risk
+C30437,2025-05-07,AU,Mid Market,Outbound,Active
+C30438,2024-10-05,IN,Small Business,Partner,active
+C30439,06/27/2024,CA,Small Business,Self-Serve,Active
+C30440,2025-08-05,AU,Mid Market,Inbound,Active
+C30441,2025-02-10,AU,Small Business,Partner,Churned
+C30442,2024-01-10,IN,Enterprise,Inbound,active
+C30443,2025-06-02,AU,Enterprise,Inbound,active
+C30444,2024-03-03,DE,Enterprise,Self-Serve,At Risk
+C30445,08/23/2025,IN,Mid Market,Self-Serve,Active
+C30446,2024-07-25,FR,Startup,Self-Serve,At Risk
+C30447,2025-03-02,CA,Enterprise,Partner,Active
+C30448,2025-03-30,FR,Startup,Outbound,Active
+C30449,2025-03-07,IN,Small Business,Inbound,Active
+C30450,2025-08-09,IN,Small Business,Inbound,active
+C30451,2025-10-18,UK,Small Business,Partner,At Risk
+C30452,2025-02-03,DE,Small Business,self-serve,Churned
+C30453,2025-10-15,CA,,Outbound,Churned
+C30454,2024-12-09,FR,Enterprise,self-serve,Active
+C30455,2025-05-07,CA,Mid Market,self-serve,Active
+C30456,2024-04-30,,Startup,Self-Serve,active
+C30457,2024-02-23,CA,Small Business,Self-Serve,At Risk
+C30458,2024-07-18,FR,,Inbound,At Risk
+C30459,09/28/2024,US,Small Business,Inbound,active
+C30460,2025-08-10,US,Small Business,Inbound,At Risk
+C30461,2025-05-24,UK,,Self-Serve,Active
+C30462,2025-01-23,FR,Enterprise,self-serve,Churned
+C30463,2025-10-06,US,Startup,Outbound,Churned
+C30464,2024-02-05,UK,,self-serve,Active
+C30465,2025-11-15,UK,Mid Market,self-serve,At Risk
+C30466,2025-11-25,DE,Small Business,Self-Serve,At Risk
+C30467,2025-06-07,,Mid Market,Inbound,Churned
+C30468,2025-07-18,US,Mid Market,Outbound,Churned
+C30469,2024-03-21,US,Small Business,Outbound,active
+C30470,2024-06-14,AU,Mid Market,Inbound,Churned
+C30471,2024-03-02,FR,Mid Market,self-serve,active
+C30472,2025-07-20,,Enterprise,Self-Serve,At Risk
+C30473,2024-07-31,US,,Inbound,At Risk
+C30474,2024-05-02,,Startup,self-serve,active
+C30475,2025-07-02,DE,Enterprise,self-serve,At Risk
+C30476,2025-10-14,DE,Small Business,self-serve,At Risk
+C30477,2025-10-18,CA,Small Business,Self-Serve,Churned
+C30478,2024-04-10,FR,Startup,Self-Serve,Churned
+C30479,2025-07-30,DE,,Inbound,active
+C30480,04/02/2025,US,Mid Market,Partner,active
+C30481,08/28/2024,UK,Mid Market,Outbound,Churned
+C30482,2024-04-25,,,Self-Serve,Churned
+C30483,2025-10-24,IN,Small Business,Outbound,Churned
+C30484,2024-10-28,,Mid Market,Inbound,active
+C30485,2024-09-17,AU,Mid Market,Self-Serve,Active
+C30486,2025-06-16,DE,Enterprise,Outbound,At Risk
+C30487,2025-04-14,,,Outbound,Active
+C30488,2024-04-17,FR,Mid Market,Self-Serve,active
+C30489,07/28/2024,UK,Enterprise,Partner,At Risk
+C30490,2025-01-16,UK,Small Business,Self-Serve,Active
+C30491,2024-08-20,US,,Partner,active
+C30492,2024-10-07,AU,Enterprise,Self-Serve,Churned
+C30493,2024-11-19,DE,Small Business,Self-Serve,active
+C30494,07/30/2024,DE,Startup,Self-Serve,active
+C30495,2025-03-15,CA,Small Business,self-serve,active
+C30496,2025-07-02,AU,,Self-Serve,Active
+C30497,2024-09-12,DE,Startup,Partner,Active
+C30498,2025-07-26,US,Startup,self-serve,Churned
+C30499,2024-09-05,UK,Mid Market,self-serve,At Risk
+C30500,2025-08-13,IN,Mid Market,self-serve,Churned
+C30501,2024-04-22,UK,Mid Market,Partner,Active
+C30502,2025-07-14,FR,Small Business,Partner,Active
+C30503,2024-08-25,,Enterprise,Outbound,active
+C30504,2024-05-25,IN,Enterprise,self-serve,active
+C30505,2025-09-04,US,,Outbound,active
+C30506,2025-08-12,CA,Enterprise,Outbound,Churned
+C30507,2024-03-25,IN,Mid Market,Partner,active
+C30508,05/27/2025,FR,Startup,Inbound,Churned
+C30509,2025-07-09,UK,Enterprise,Partner,At Risk
+C30510,2024-06-22,DE,,Inbound,active
+C30511,2024-05-16,FR,Mid Market,Partner,Active
+C30512,2024-02-24,IN,,Outbound,Churned
+C30513,2024-12-04,AU,Startup,self-serve,active
+C30514,2025-04-28,DE,,Partner,Churned
+C30515,2025-09-05,,Mid Market,Self-Serve,Churned
+C30516,2024-03-29,US,Mid Market,self-serve,At Risk
+C30517,2025-03-25,IN,Enterprise,Inbound,Active
+C30518,2025-10-02,US,Enterprise,Outbound,Churned
+C30519,2024-04-06,US,Startup,self-serve,active
+C30520,2025-09-23,FR,Small Business,Outbound,active
+C30521,2024-10-13,FR,Mid Market,Partner,At Risk
+C30522,2025-10-02,,Startup,Inbound,active
+C30523,2024-10-14,DE,Enterprise,Partner,active
+C30524,2025-02-02,IN,,Partner,Churned
+C30525,2024-05-08,,Startup,Self-Serve,active
+C30526,2025-04-10,,Small Business,Inbound,At Risk
+C30527,2024-09-13,AU,Enterprise,Outbound,Active
+C30528,2025-03-01,DE,Mid Market,Self-Serve,At Risk
+C30529,2025-06-22,FR,Mid Market,Self-Serve,Active
+C30530,2025-01-23,,Startup,Inbound,Churned
+C30531,2025-03-03,UK,,Self-Serve,Churned
+C30532,2024-11-25,UK,Small Business,Self-Serve,Churned
+C30533,2024-03-13,CA,,self-serve,Churned
+C30534,2024-10-17,FR,Mid Market,Self-Serve,Churned
+C30535,2025-02-27,CA,Mid Market,Inbound,At Risk
+C30536,2024-05-02,DE,Startup,Inbound,active
+C30537,2024-07-20,UK,Small Business,Self-Serve,Churned
+C30538,2025-01-31,IN,,Partner,active
+C30539,2024-12-05,FR,Mid Market,Outbound,active
+C30540,2024-07-13,DE,Startup,Partner,At Risk
+C30541,2025-06-11,FR,Small Business,Self-Serve,Churned
+C30542,2024-07-08,IN,,Outbound,Active
+C30543,2024-08-27,FR,,Inbound,Active
+C30544,2025-04-28,AU,Mid Market,self-serve,At Risk
+C30545,2024-10-30,DE,Startup,Self-Serve,Churned
+C30546,2025-04-08,IN,Small Business,self-serve,At Risk
+C30547,2025-05-03,AU,,Inbound,At Risk
+C30548,08/14/2025,UK,,Outbound,At Risk
+C30549,2024-01-27,CA,Mid Market,Self-Serve,Active
+C30550,2024-12-31,CA,Small Business,Self-Serve,At Risk
+C30551,2024-08-25,,Enterprise,self-serve,active
+C30552,2024-02-29,FR,Small Business,self-serve,active
+C30553,2024-11-21,AU,,Partner,Churned
+C30554,2024-01-29,,,Self-Serve,active
+C30555,2024-12-10,IN,,Self-Serve,active
+C30556,2025-04-15,DE,,self-serve,active
+C30557,2024-08-14,DE,,Inbound,Active
+C30558,2025-10-04,CA,Mid Market,Partner,At Risk
+C30559,2025-05-27,FR,Small Business,Inbound,Active
+C30560,2024-05-02,IN,Small Business,Inbound,Active
+C30561,10/09/2025,US,,Partner,Churned
+C30562,2024-06-06,US,Mid Market,self-serve,active
+C30563,2024-01-12,DE,Mid Market,Self-Serve,At Risk
+C30564,2024-11-30,IN,Startup,self-serve,active
+C30565,2024-06-04,US,Small Business,Outbound,At Risk
+C30566,2025-11-04,US,Mid Market,Partner,Churned
+C30567,2024-06-03,,Startup,Self-Serve,Active
+C30568,2025-03-27,CA,Enterprise,Partner,Churned
+C30569,2024-01-26,DE,Startup,Outbound,active
+C30570,2025-08-24,,Startup,Inbound,Churned
+C30571,2025-08-25,,Small Business,Inbound,At Risk
+C30572,2025-04-28,FR,Enterprise,self-serve,Churned
+C30573,12/16/2024,FR,,Outbound,Churned
+C30574,2025-11-06,FR,Small Business,Inbound,Active
+C30575,2025-02-25,,Small Business,self-serve,At Risk
+C30576,2025-04-17,DE,Small Business,Partner,At Risk
+C30577,2024-01-15,IN,Small Business,Outbound,Active
+C30578,2025-08-25,US,,Inbound,At Risk
+C30579,2025-10-01,CA,Small Business,self-serve,Churned
+C30580,2024-04-24,US,Mid Market,Partner,At Risk
+C30581,2025-02-04,DE,Startup,self-serve,Active
+C30582,2025-07-15,US,Startup,Outbound,Active
+C30583,2025-04-21,DE,Startup,Partner,At Risk
+C30584,2025-11-23,IN,Startup,Outbound,Churned
+C30585,2024-01-14,UK,Enterprise,Self-Serve,At Risk
+C30586,06/04/2025,US,Startup,Partner,active
+C30587,2025-09-29,,,Outbound,Active
+C30588,2024-11-28,AU,Startup,Self-Serve,active
+C30589,2025-05-07,,,Partner,Active
+C30590,2024-05-14,IN,,Self-Serve,Active
+C30591,08/21/2024,IN,Small Business,self-serve,Churned
+C30592,2025-08-15,FR,,Outbound,active
+C30593,2024-02-04,IN,Small Business,Outbound,At Risk
+C30594,2024-05-20,FR,,Outbound,Active
+C30595,2025-08-05,UK,,Inbound,Active
+C30596,2025-04-14,UK,Startup,Partner,At Risk
+C30597,2025-10-20,IN,Enterprise,Inbound,Active
+C30598,2025-02-20,CA,Mid Market,Inbound,Active
+C30599,2025-11-03,FR,Enterprise,Outbound,Churned
+C30600,2025-01-25,CA,Small Business,self-serve,At Risk
+C30601,2024-09-15,IN,,Outbound,Active
+C30602,2024-08-02,IN,Startup,Self-Serve,active
+C30603,2024-11-17,US,Mid Market,Outbound,Churned
+C30604,2024-01-17,FR,Mid Market,Partner,Active
+C30605,2024-01-23,AU,Startup,Partner,At Risk
+C30606,2025-06-16,UK,Mid Market,Outbound,active
+C30607,2025-06-03,,,Inbound,Churned
+C30608,2025-03-24,DE,Enterprise,Self-Serve,Churned
+C30609,2025-11-20,,Mid Market,self-serve,Active
+C30610,2025-08-17,US,Small Business,Partner,Churned
+C30611,2025-09-26,IN,Small Business,Partner,Churned
+C30612,2024-04-25,,Small Business,Self-Serve,Churned
+C30613,2025-05-12,CA,Small Business,Inbound,Churned
+C30614,2024-05-24,AU,Startup,Partner,At Risk
+C30615,2025-10-12,,Startup,Outbound,At Risk
+C30616,2025-11-23,UK,Enterprise,Inbound,At Risk
+C30617,05/21/2024,IN,,Inbound,Churned
+C30618,06/23/2025,UK,Mid Market,self-serve,Active
+C30619,2025-07-03,DE,Mid Market,Outbound,Churned
+C30620,2025-06-09,FR,,Inbound,At Risk
+C30621,2025-04-12,US,,Inbound,Active
+C30622,2024-12-12,IN,Startup,Inbound,Active
+C30623,2025-06-02,CA,Small Business,Partner,Active
+C30624,2025-01-01,US,Mid Market,Partner,At Risk
+C30625,2024-07-15,AU,Mid Market,Outbound,active
+C30626,2025-01-29,CA,Startup,Inbound,Active
+C30627,2024-05-10,DE,Small Business,Partner,At Risk
+C30628,2025-04-06,US,,Outbound,At Risk
+C30629,07/17/2024,CA,Startup,Self-Serve,At Risk
+C30630,2024-12-24,FR,Small Business,Self-Serve,Churned
+C30631,2024-01-30,DE,,self-serve,active
+C30632,09/02/2025,FR,Mid Market,self-serve,At Risk
+C30633,2025-05-11,CA,Enterprise,Inbound,Active
+C30634,2025-08-31,US,Startup,Outbound,active
+C30635,2024-07-23,IN,,self-serve,At Risk
+C30636,2025-05-10,DE,,Inbound,At Risk
+C30637,2024-05-17,US,Startup,Outbound,active
+C30638,03/27/2024,IN,,self-serve,active
+C30639,2024-01-27,,Startup,Inbound,active
+C30640,2025-09-25,DE,Small Business,self-serve,active
+C30641,2024-10-24,AU,Mid Market,Inbound,active
+C30642,2025-06-06,DE,Enterprise,Self-Serve,At Risk
+C30643,2025-05-02,FR,Mid Market,Partner,active
+C30644,2025-03-19,US,Mid Market,Partner,At Risk
+C30645,2024-05-12,DE,Small Business,Inbound,Active
+C30646,2024-02-14,UK,Enterprise,Self-Serve,At Risk
+C30647,2024-07-01,FR,Enterprise,Self-Serve,At Risk
+C30648,2024-07-03,FR,Enterprise,Inbound,At Risk
+C30649,2025-03-16,CA,Small Business,Outbound,Active
+C30650,03/11/2024,UK,,self-serve,active
+C30651,2024-01-19,FR,,Outbound,Churned
+C30652,2024-12-30,IN,Mid Market,Partner,active
+C30653,2025-02-22,CA,,self-serve,active
+C30654,2025-01-16,UK,,Partner,Churned
+C30655,2024-10-05,IN,Startup,Outbound,Churned
+C30656,2025-09-17,,Enterprise,self-serve,At Risk
+C30657,2024-02-09,CA,,self-serve,Active
+C30658,2025-09-07,DE,Mid Market,self-serve,Active
+C30659,2025-08-07,IN,Mid Market,self-serve,Churned
+C30660,2025-06-14,UK,Enterprise,self-serve,active
+C30661,2025-07-16,FR,,self-serve,Active
+C30662,2024-06-26,UK,Mid Market,self-serve,At Risk
+C30663,2025-01-09,US,Mid Market,self-serve,active
+C30664,2024-10-31,DE,Mid Market,Inbound,Active
+C30665,05/26/2025,US,Small Business,Outbound,Active
+C30666,2025-03-27,DE,,Inbound,active
+C30667,2024-02-01,FR,,Inbound,At Risk
+C30668,2024-05-29,UK,Mid Market,self-serve,Churned
+C30669,2024-01-23,FR,Startup,Inbound,Churned
+C30670,2024-07-28,FR,Enterprise,Self-Serve,Churned
+C30671,2024-05-12,DE,Enterprise,Outbound,At Risk
+C30672,2024-07-20,CA,Small Business,Inbound,Churned
+C30673,2024-04-15,DE,Enterprise,Outbound,At Risk
+C30674,2025-07-17,UK,Small Business,Outbound,Active
+C30675,2025-02-08,UK,,Partner,Churned
+C30676,2024-07-11,IN,Mid Market,Inbound,Active
+C30677,2025-07-16,CA,Mid Market,Self-Serve,Active
+C30678,2025-10-25,AU,Mid Market,Partner,At Risk
+C30679,2024-09-29,UK,,Self-Serve,At Risk
+C30680,2025-04-27,AU,,Outbound,Active
+C30681,2025-08-24,DE,Mid Market,Partner,At Risk
+C30682,2025-03-21,FR,Mid Market,Inbound,Churned
+C30683,2025-11-29,UK,Enterprise,Self-Serve,At Risk
+C30684,2024-04-24,UK,Enterprise,self-serve,At Risk
+C30685,2025-03-27,AU,Small Business,Self-Serve,Churned
+C30686,2025-04-20,US,Small Business,Outbound,Churned
+C30687,2024-03-16,UK,Enterprise,self-serve,active
+C30688,2025-07-01,,,Partner,At Risk
+C30689,03/12/2025,UK,Enterprise,Self-Serve,Churned
+C30690,2025-02-17,IN,Mid Market,Inbound,Active
+C30691,2024-02-11,AU,Mid Market,self-serve,At Risk
+C30692,2024-03-03,FR,Mid Market,Outbound,Churned
+C30693,2024-07-08,CA,Startup,Partner,At Risk
+C30694,2025-11-07,CA,Startup,self-serve,active
+C30695,2025-09-11,,,self-serve,At Risk
+C30696,2024-09-18,AU,,self-serve,Churned
+C30697,2024-02-10,UK,Mid Market,self-serve,Active
+C30698,2024-12-10,FR,Small Business,self-serve,active
+C30699,2024-10-11,IN,Small Business,Partner,active
+C30700,2024-11-19,FR,Enterprise,Partner,At Risk
+C30701,2024-02-15,IN,Mid Market,self-serve,active
+C30702,2025-04-24,FR,Startup,Self-Serve,Churned
+C30703,2024-02-18,UK,Startup,Self-Serve,At Risk
+C30704,2025-01-17,DE,Mid Market,Inbound,Active
+C30705,2024-02-26,US,Small Business,Self-Serve,Active
+C30706,2024-03-16,US,,Self-Serve,At Risk
+C30707,2025-03-18,AU,Small Business,Outbound,At Risk
+C30708,2025-07-01,CA,Small Business,Inbound,Churned
+C30709,2024-06-03,IN,Small Business,Self-Serve,At Risk
+C30710,2025-03-03,DE,Startup,self-serve,At Risk
+C30711,2025-06-21,AU,Small Business,Self-Serve,Active
+C30712,2025-10-15,CA,Mid Market,Inbound,Churned
+C30713,2025-09-29,US,Enterprise,self-serve,active
+C30714,2025-05-31,UK,Small Business,Self-Serve,active
+C30715,2025-02-22,AU,Mid Market,Partner,Churned
+C30716,2024-10-26,UK,Mid Market,self-serve,Active
+C30717,2024-07-13,FR,Small Business,Self-Serve,Active
+C30718,2024-11-17,,,self-serve,Active
+C30719,2024-12-14,US,Mid Market,self-serve,active
+C30720,09/06/2024,IN,,Outbound,Churned
+C30721,2025-05-07,CA,Enterprise,self-serve,At Risk
+C30722,2024-11-02,FR,,Partner,active
+C30723,2024-02-10,CA,Small Business,self-serve,At Risk
+C30724,2025-07-23,AU,Mid Market,Self-Serve,At Risk
+C30725,2025-07-04,UK,Startup,Partner,Churned
+C30726,2024-10-02,DE,Startup,self-serve,Active
+C30727,2025-01-31,,Startup,Inbound,Churned
+C30728,2025-11-11,CA,Mid Market,Self-Serve,Churned
+C30729,2024-11-20,FR,,Inbound,active
+C30730,2024-04-06,IN,Mid Market,Partner,Churned
+C30731,2024-10-15,FR,Small Business,self-serve,Churned
+C30732,2024-10-02,FR,Small Business,Partner,Churned
+C30733,10/21/2025,IN,Startup,Partner,active
+C30734,2024-11-22,FR,Enterprise,Inbound,Churned
+C30735,2024-07-12,AU,,Outbound,At Risk
+C30736,2024-08-16,UK,Startup,Outbound,At Risk
+C30737,2024-09-21,CA,Startup,Partner,Churned
+C30738,2024-12-20,,Startup,Self-Serve,active
+C30739,2025-10-07,FR,,Self-Serve,active
+C30740,01/22/2025,AU,Enterprise,Inbound,active
+C30741,2024-09-08,CA,Small Business,self-serve,Churned
+C30742,2024-12-14,UK,,Partner,Active
+C30743,2024-01-24,AU,Small Business,Self-Serve,active
+C30744,2024-10-28,UK,,Outbound,Churned
+C30745,2025-09-11,IN,Enterprise,Inbound,At Risk
+C30746,2024-07-18,US,Enterprise,self-serve,Churned
+C30747,2025-11-22,CA,Startup,Inbound,Churned
+C30748,2024-11-02,US,Startup,Outbound,At Risk
+C30749,2025-08-03,UK,Mid Market,self-serve,active
+C30750,2025-10-08,IN,,Self-Serve,Churned
+C30751,2025-10-30,DE,,Outbound,Churned
+C30752,2025-08-11,,Mid Market,Inbound,Active
+C30753,2024-02-21,DE,Startup,self-serve,Churned
+C30754,2024-10-16,DE,Startup,Inbound,Active
+C30755,2025-01-16,CA,Small Business,Inbound,active
+C30756,09/09/2025,US,Small Business,Outbound,Active
+C30757,2025-04-07,IN,Small Business,Self-Serve,active
+C30758,2025-11-10,DE,Small Business,Outbound,Active
+C30759,2024-07-13,,Enterprise,Outbound,Churned
+C30760,2025-01-20,CA,Startup,Partner,Active
+C30761,2025-10-26,UK,Small Business,Outbound,active
+C30762,2024-12-09,UK,Enterprise,Self-Serve,Active
+C30763,02/16/2024,AU,Small Business,Outbound,Active
+C30764,2025-06-03,CA,Enterprise,Outbound,At Risk
+C30765,2025-03-23,CA,Small Business,Partner,At Risk
+C30766,2024-08-08,US,Small Business,Partner,At Risk
+C30767,2024-07-03,IN,,Inbound,At Risk
+C30768,2024-10-22,AU,,self-serve,active
+C30769,2025-04-26,IN,,Inbound,Active
+C30770,2025-02-14,US,Enterprise,Outbound,Active
+C30771,2025-04-01,,Small Business,Inbound,Active
+C30772,2024-01-03,US,Startup,Inbound,active
+C30773,2024-03-17,,Mid Market,self-serve,Churned
+C30774,2024-05-05,US,Mid Market,Self-Serve,active
+C30775,2024-07-07,CA,Mid Market,Self-Serve,active
+C30776,2024-02-07,,Mid Market,Self-Serve,Churned
+C30777,2024-06-10,UK,Enterprise,Self-Serve,At Risk
+C30778,2025-03-02,CA,Enterprise,Inbound,Churned
+C30779,2024-06-08,AU,Small Business,Self-Serve,Churned
+C30780,2024-04-04,US,Small Business,Self-Serve,Active
+C30781,2024-01-11,UK,Mid Market,Inbound,active
+C30782,2024-09-17,UK,Enterprise,self-serve,Active
+C30783,2024-08-11,CA,Startup,Partner,Active
+C30784,2024-10-09,DE,Small Business,Outbound,Churned
+C30785,03/03/2025,,Startup,Partner,Active
+C30786,2025-01-23,DE,Enterprise,self-serve,Churned
+C30787,2024-07-05,,,self-serve,active
+C30788,2024-10-29,,Enterprise,Outbound,At Risk
+C30789,2025-08-09,CA,Enterprise,Partner,active
+C30790,2025-05-15,UK,,self-serve,Active
+C30791,2025-10-05,UK,Startup,Partner,Active
+C30792,2024-08-28,DE,Enterprise,self-serve,active
+C30793,2024-03-06,,Startup,Inbound,Active
+C30794,2024-09-15,CA,Startup,Outbound,At Risk
+C30795,2024-07-30,FR,Startup,self-serve,Active
+C30796,04/28/2024,DE,,Inbound,At Risk
+C30797,2024-11-11,US,Small Business,Partner,Active
+C30798,2024-10-29,AU,,self-serve,active
+C30799,2024-05-07,CA,Startup,Self-Serve,At Risk
+C30800,2024-02-08,US,Mid Market,Partner,At Risk
+C30801,2024-09-23,UK,Enterprise,Self-Serve,active
+C30802,2024-09-27,UK,Small Business,Self-Serve,At Risk
+C30803,2024-07-18,IN,,Inbound,active
+C30804,2025-08-15,UK,Enterprise,Inbound,active
+C30805,2025-05-23,AU,Small Business,Inbound,Churned
+C30806,2024-03-27,,,Partner,Churned
+C30807,2024-08-01,UK,Small Business,Outbound,Active
+C30808,2024-12-02,UK,Small Business,self-serve,At Risk
+C30809,2024-12-29,US,,Self-Serve,Churned
+C30810,11/12/2025,US,Startup,Partner,active
+C30811,2024-01-10,,Small Business,Inbound,Active
+C30812,2024-03-31,DE,Startup,Self-Serve,At Risk
+C30813,2024-10-10,FR,Enterprise,Partner,Churned
+C30814,2025-11-05,US,Startup,Inbound,At Risk
+C30815,2025-11-25,FR,Small Business,Self-Serve,At Risk
+C30816,2025-06-21,FR,Enterprise,Partner,At Risk
+C30817,2024-05-24,FR,Small Business,Self-Serve,At Risk
+C30818,2025-02-21,DE,Small Business,Inbound,At Risk
+C30819,2025-11-29,UK,Mid Market,Partner,At Risk
+C30820,2024-11-28,FR,,Partner,At Risk
+C30821,2024-09-26,US,Mid Market,Partner,At Risk
+C30822,2025-05-19,CA,Startup,Self-Serve,Active
+C30823,2025-11-01,AU,Mid Market,Self-Serve,Churned
+C30824,2024-02-01,,Mid Market,Partner,active
+C30825,2024-03-03,UK,Enterprise,Partner,At Risk
+C30826,2025-09-10,AU,Enterprise,Self-Serve,Churned
+C30827,2024-06-03,,Mid Market,Partner,active
+C30828,2025-06-09,AU,,self-serve,At Risk
+C30829,2025-10-13,FR,Small Business,Inbound,active
+C30830,2024-04-20,DE,Small Business,self-serve,At Risk
+C30831,2025-09-08,CA,Enterprise,Partner,active
+C30832,2024-08-29,DE,Mid Market,Inbound,Churned
+C30833,2024-05-22,US,,Self-Serve,Active
+C30834,2024-01-11,,Small Business,Self-Serve,active
+C30835,2024-10-28,UK,Small Business,Outbound,Churned
+C30836,2025-04-06,CA,Enterprise,Outbound,At Risk
+C30837,2024-07-19,IN,Enterprise,Partner,Active
+C30838,2024-05-27,IN,Startup,Inbound,active
+C30839,2024-05-03,,Mid Market,Partner,active
+C30840,2024-06-24,UK,,Self-Serve,Churned
+C30841,2024-12-26,US,Small Business,self-serve,Churned
+C30842,2025-06-24,US,,Partner,active
+C30843,2025-10-08,,Small Business,self-serve,At Risk
+C30844,2024-01-24,AU,Mid Market,Self-Serve,At Risk
+C30845,2024-10-29,IN,Mid Market,Outbound,At Risk
+C30846,2024-05-26,IN,Startup,Outbound,active
+C30847,2024-09-28,FR,Startup,self-serve,Active
+C30848,2024-08-18,UK,,self-serve,At Risk
+C30849,2025-07-08,US,Mid Market,Inbound,Churned
+C30850,2024-09-03,AU,,Self-Serve,At Risk
+C30851,2024-09-06,US,,Partner,active
+C30852,2025-07-17,,Startup,Outbound,Active
+C30853,2025-07-21,UK,Startup,self-serve,active
+C30854,2025-01-31,AU,Mid Market,self-serve,At Risk
+C30855,2025-02-01,DE,Enterprise,self-serve,Churned
+C30856,2024-11-27,IN,Mid Market,Partner,At Risk
+C30857,2025-01-17,,Startup,Self-Serve,At Risk
+C30858,10/12/2024,US,Mid Market,Self-Serve,active
+C30859,2025-08-11,IN,Startup,self-serve,Active
+C30860,2024-06-16,US,Mid Market,Outbound,Churned
+C30861,2025-07-29,FR,Enterprise,Outbound,At Risk
+C30862,2024-01-19,AU,Small Business,Partner,Active
+C30863,2025-11-03,AU,Startup,Inbound,active
+C30864,2024-12-31,UK,,self-serve,At Risk
+C30865,2025-07-10,DE,Startup,Inbound,active
+C30866,2025-04-18,AU,Small Business,Outbound,Active
+C30867,03/31/2025,AU,Startup,Self-Serve,At Risk
+C30868,10/24/2025,UK,Startup,self-serve,active
+C30869,2024-01-29,FR,Enterprise,Self-Serve,At Risk
+C30870,2024-09-07,DE,,Inbound,active
+C30871,2024-05-14,CA,Enterprise,self-serve,active
+C30872,2025-11-08,AU,Small Business,self-serve,active
+C30873,2025-09-06,FR,,self-serve,active
+C30874,2024-10-22,CA,Small Business,Outbound,Churned
+C30875,2025-01-13,IN,Mid Market,Self-Serve,Churned
+C30876,2025-02-08,IN,Small Business,self-serve,active
+C30877,2024-12-04,DE,Mid Market,Inbound,At Risk
+C30878,2024-12-05,AU,Small Business,Outbound,Active
+C30879,2025-11-27,AU,Small Business,self-serve,Active
+C30880,2024-02-01,,Startup,Inbound,At Risk
+C30881,2025-04-09,DE,Startup,self-serve,Churned
+C30882,2024-10-05,AU,,Self-Serve,At Risk
+C30883,07/27/2024,UK,Startup,Self-Serve,Churned
+C30884,2024-07-14,FR,Mid Market,Inbound,At Risk
+C30885,2025-02-10,AU,Small Business,Inbound,At Risk
+C30886,2024-09-22,FR,Mid Market,Partner,active
+C30887,2024-03-16,IN,Small Business,Self-Serve,active
+C30888,2024-07-18,DE,Startup,Inbound,Churned
+C30889,2025-07-19,AU,Mid Market,Inbound,Churned
+C30890,2025-07-13,IN,Enterprise,self-serve,Churned
+C30891,2025-06-05,DE,,Inbound,Churned
+C30892,2025-07-25,FR,Mid Market,Self-Serve,At Risk
+C30893,2024-09-18,FR,Small Business,Outbound,Churned
+C30894,2025-02-16,US,Mid Market,Partner,active
+C30895,06/29/2024,,Small Business,Outbound,active
+C30896,07/07/2024,UK,,Self-Serve,At Risk
+C30897,2025-08-22,DE,Enterprise,Outbound,At Risk
+C30898,2025-10-28,UK,Enterprise,self-serve,Active
+C30899,2025-04-16,CA,Mid Market,Self-Serve,At Risk
+C30900,2025-10-14,IN,,Partner,Churned
+C30901,2024-05-29,AU,,Outbound,Active
+C30902,2024-11-09,FR,Small Business,self-serve,At Risk
+C30903,2025-08-28,US,,Partner,Churned
+C30904,2025-06-06,DE,Startup,Outbound,active
+C30905,2024-01-31,US,Mid Market,Inbound,Churned
+C30906,2024-10-16,IN,Startup,Outbound,active
+C30907,2024-09-17,AU,Mid Market,self-serve,Churned
+C30908,2025-07-05,FR,Mid Market,self-serve,Churned
+C30909,2024-06-17,US,Small Business,self-serve,At Risk
+C30910,2024-05-08,AU,,self-serve,active
+C30911,2025-04-18,,Enterprise,Partner,At Risk
+C30912,2025-03-20,,Startup,Self-Serve,At Risk
+C30913,2025-03-04,DE,,Self-Serve,active
+C30914,2025-03-19,,Startup,Outbound,active
+C30915,2024-08-10,AU,Enterprise,Partner,Active
+C30916,2024-08-09,FR,Small Business,Inbound,active
+C30917,2024-05-06,FR,Small Business,Self-Serve,At Risk
+C30918,2024-11-06,UK,Startup,Outbound,active
+C30919,2024-09-14,UK,,Self-Serve,Active
+C30920,2024-06-29,FR,Startup,Partner,Churned
+C30921,06/19/2025,AU,,Outbound,Churned
+C30922,2024-07-19,AU,,Self-Serve,At Risk
+C30923,2025-11-15,FR,,self-serve,active
+C30924,2024-06-16,,,Self-Serve,Active
+C30925,2024-11-20,US,,Outbound,active
+C30926,2024-10-07,IN,Enterprise,Inbound,Churned
+C30927,2024-06-10,UK,Small Business,Partner,At Risk
+C30928,2024-10-12,FR,Startup,Inbound,At Risk
+C30929,2024-06-29,DE,Small Business,Outbound,At Risk
+C30930,2024-05-25,FR,Mid Market,self-serve,At Risk
+C30931,2024-03-09,UK,,Partner,active
+C30932,2025-11-02,FR,Enterprise,Inbound,Churned
+C30933,2025-03-08,,Startup,Partner,Churned
+C30934,2024-09-03,FR,,Inbound,Churned
+C30935,2024-09-29,FR,Enterprise,Outbound,Churned
+C30936,2025-07-06,IN,Enterprise,Partner,active
+C30937,2024-09-19,FR,Enterprise,Inbound,Churned
+C30938,07/13/2025,CA,,Partner,Churned
+C30939,2025-09-28,FR,Mid Market,Self-Serve,active
+C30940,2025-04-06,AU,,Inbound,Churned
+C30941,09/01/2024,FR,Enterprise,self-serve,Active
+C30942,2024-05-23,UK,Startup,Partner,At Risk
+C30943,2024-12-16,,Enterprise,Partner,Churned
+C30944,2024-07-05,CA,Mid Market,Partner,At Risk
+C30945,2025-03-24,,Enterprise,Outbound,active
+C30946,2024-09-22,IN,Enterprise,Outbound,At Risk
+C30947,08/15/2025,IN,Enterprise,self-serve,Churned
+C30948,2024-12-22,UK,Startup,Inbound,Churned
+C30949,09/06/2024,IN,Enterprise,Inbound,active
+C30950,08/09/2025,FR,Enterprise,Outbound,Active
+C30951,03/22/2024,CA,,Outbound,At Risk
+C30952,2024-07-15,,,self-serve,Active
+C30953,2024-04-17,,Enterprise,self-serve,active
+C30954,2025-05-29,US,Mid Market,Partner,At Risk
+C30955,2025-08-22,,Mid Market,Outbound,active
+C30956,2025-05-08,US,Small Business,Outbound,Churned
+C30957,2025-09-26,US,,Inbound,active
+C30958,2024-02-25,US,Enterprise,Outbound,Churned
+C30959,2024-01-25,FR,Startup,Inbound,Churned
+C30960,2024-04-06,,Startup,Partner,active
+C30961,2025-02-08,FR,,self-serve,Active
+C30962,2024-02-03,CA,Mid Market,self-serve,At Risk
+C30963,2025-04-26,UK,,Partner,Active
+C30964,2024-04-24,UK,,Partner,At Risk
+C30965,2024-09-13,DE,,Outbound,active
+C30966,2025-03-24,DE,Small Business,Inbound,At Risk
+C30967,2024-04-08,CA,Mid Market,Self-Serve,active
+C30968,2024-03-18,,,Inbound,Churned
+C30969,2024-10-17,UK,Startup,Outbound,Churned
+C30970,2024-12-30,US,,Partner,At Risk
+C30971,2025-03-21,US,Enterprise,Outbound,Churned
+C30972,2025-07-06,,Small Business,self-serve,At Risk
+C30973,2024-08-09,,Enterprise,Inbound,Churned
+C30974,2025-11-02,AU,Enterprise,self-serve,Active
+C30975,2024-01-27,,Small Business,Inbound,active
+C30976,2025-07-07,DE,Mid Market,self-serve,active
+C30977,2025-10-17,,Startup,Self-Serve,active
+C30978,2024-02-01,AU,,Self-Serve,At Risk
+C30979,2024-11-26,CA,Startup,Inbound,At Risk
+C30980,2024-01-27,US,,self-serve,Churned
+C30981,2024-12-05,FR,Enterprise,self-serve,Active
+C30982,2025-08-27,UK,,Partner,At Risk
+C30983,2024-09-15,AU,,Partner,Active
+C30984,2025-02-13,CA,Enterprise,Outbound,active
+C30985,2025-06-25,CA,Mid Market,Self-Serve,Active
+C30986,2025-08-27,UK,,Partner,At Risk
+C30987,2024-12-04,FR,,Partner,Churned
+C30988,2024-08-05,DE,,Outbound,At Risk
+C30989,2025-01-04,,Mid Market,Partner,Churned
+C30990,2025-01-05,DE,Enterprise,Outbound,active
+C30991,2025-08-12,DE,Small Business,Self-Serve,Active
+C30992,2024-04-14,DE,Enterprise,Inbound,Churned
+C30993,2024-05-29,US,Small Business,Outbound,active
+C30994,05/30/2024,US,,Self-Serve,At Risk
+C30995,2025-11-12,CA,Small Business,self-serve,active
+C30996,2024-10-25,CA,Enterprise,Partner,At Risk
+C30997,2024-06-07,US,Small Business,Self-Serve,At Risk
+C30998,2025-11-30,IN,Startup,Partner,At Risk
+C30999,2024-04-18,DE,Small Business,Outbound,active
+C31000,2025-03-27,DE,Mid Market,Outbound,Churned
+C31001,2025-03-07,,Small Business,self-serve,Churned
+C31002,2024-10-29,AU,Startup,Outbound,Churned
+C31003,2025-01-13,FR,Mid Market,Partner,active
+C31004,2025-01-01,FR,,Self-Serve,active
+C31005,2025-10-12,DE,Small Business,Self-Serve,active
+C31006,2024-06-08,,Mid Market,self-serve,At Risk
+C31007,2024-03-23,DE,Small Business,Inbound,Active
+C31008,2025-08-04,,Startup,Partner,Churned
+C31009,2024-01-31,,Enterprise,self-serve,Active
+C31010,2025-03-02,CA,Enterprise,Self-Serve,Active
+C31011,2024-04-21,FR,Small Business,self-serve,active
+C31012,2024-06-22,AU,Mid Market,Inbound,At Risk
+C31013,2024-09-07,UK,,self-serve,At Risk
+C31014,2025-05-31,UK,Enterprise,self-serve,active
+C31015,2024-10-19,US,Mid Market,Partner,Active
+C31016,2024-03-15,DE,Startup,Partner,Churned
+C31017,2025-06-28,IN,Startup,Outbound,active
+C31018,2025-01-08,AU,,Inbound,active
+C31019,2025-03-07,US,Mid Market,Self-Serve,At Risk
+C31020,2025-09-27,AU,Mid Market,Outbound,active
+C31021,2025-06-19,CA,Mid Market,self-serve,At Risk
+C31022,2025-11-02,DE,Startup,Outbound,At Risk
+C31023,2024-12-12,DE,,Outbound,At Risk
+C31024,2025-10-29,FR,Startup,Partner,Churned
+C31025,2024-01-11,UK,Startup,Self-Serve,Churned
+C31026,2024-03-29,FR,Enterprise,Self-Serve,active
+C31027,07/07/2024,FR,Small Business,self-serve,Churned
+C31028,2024-06-30,FR,Small Business,Inbound,At Risk
+C31029,2025-11-28,,Mid Market,Self-Serve,At Risk
+C31030,2024-08-17,CA,Startup,Outbound,active
+C31031,2024-10-08,UK,Startup,self-serve,active
+C31032,2025-05-20,UK,,Inbound,At Risk
+C31033,2025-02-28,,Mid Market,self-serve,Active
+C31034,2024-11-25,AU,Small Business,self-serve,active
+C31035,2025-09-26,IN,Mid Market,Partner,active
+C31036,2024-11-24,US,Enterprise,self-serve,Churned
+C31037,2025-07-25,UK,Small Business,Inbound,Active
+C31038,2024-01-01,DE,Startup,Partner,At Risk
+C31039,2025-09-23,AU,Small Business,Inbound,Active
+C31040,2024-11-30,US,Enterprise,Self-Serve,Churned
+C31041,2024-08-18,IN,Enterprise,Outbound,active
+C31042,2025-10-25,CA,Startup,self-serve,At Risk
+C31043,2025-06-20,IN,Mid Market,Partner,Active
+C31044,11/24/2024,IN,Startup,self-serve,Churned
+C31045,2024-03-18,UK,Small Business,self-serve,Active
+C31046,12/27/2024,,,Self-Serve,Churned
+C31047,2025-11-25,AU,Mid Market,self-serve,Active
+C31048,2025-10-20,CA,Startup,Outbound,active
+C31049,2025-06-25,UK,Enterprise,self-serve,At Risk
+C31050,2024-01-10,DE,Startup,self-serve,active
+C31051,2025-09-14,CA,,Partner,Active
+C31052,2025-08-19,IN,Small Business,Outbound,active
+C31053,03/02/2025,FR,Startup,Outbound,Active
+C31054,2025-06-26,DE,Mid Market,Self-Serve,Churned
+C31055,2024-06-05,UK,Startup,Partner,Active
+C31056,2025-05-06,AU,Enterprise,Outbound,Active
+C31057,2025-01-21,US,Startup,Partner,Active
+C31058,10/11/2025,AU,Enterprise,Outbound,Churned
+C31059,2025-03-19,AU,Enterprise,Partner,At Risk
+C31060,2025-06-18,,Startup,self-serve,Churned
+C31061,2024-12-19,DE,Small Business,Inbound,active
+C31062,2024-05-09,AU,Small Business,self-serve,Active
+C31063,2024-10-02,FR,,self-serve,active
+C31064,2025-06-26,,,Partner,active
+C31065,2025-10-27,IN,Enterprise,Partner,Active
+C31066,2025-09-09,IN,Enterprise,Inbound,At Risk
+C31067,2024-05-14,AU,Enterprise,Partner,At Risk
+C31068,2025-09-22,CA,Mid Market,Inbound,At Risk
+C31069,2025-08-04,CA,,Inbound,active
+C31070,2024-06-07,US,Enterprise,Partner,Churned
+C31071,2025-03-09,DE,Small Business,Partner,At Risk
+C31072,2024-10-11,FR,,self-serve,Churned
+C31073,2024-12-26,CA,Mid Market,Partner,active
+C31074,11/14/2024,,Startup,self-serve,At Risk
+C31075,2024-08-15,CA,,Partner,Active
+C31076,2024-04-22,UK,,self-serve,active
+C31077,2025-08-25,AU,,Partner,active
+C31078,2024-07-15,US,Small Business,Outbound,active
+C31079,2025-11-29,CA,Startup,Partner,active
+C31080,2025-07-14,DE,,self-serve,Active
+C31081,2025-02-15,FR,Startup,Inbound,At Risk
+C31082,2024-06-19,CA,Enterprise,Inbound,At Risk
+C31083,2024-10-23,AU,,Self-Serve,active
+C31084,2024-05-05,AU,Startup,Inbound,At Risk
+C31085,2024-01-10,FR,,Inbound,Churned
+C31086,2024-04-21,FR,Enterprise,Self-Serve,Churned
+C31087,2024-07-23,DE,Enterprise,Partner,Churned
+C31088,2024-08-22,DE,Mid Market,Self-Serve,Active
+C31089,2024-03-11,DE,Small Business,Self-Serve,active
+C31090,2025-04-05,IN,Small Business,Partner,active
+C31091,2025-05-16,DE,Enterprise,self-serve,At Risk
+C31092,2024-12-03,AU,Enterprise,Partner,active
+C31093,2024-12-15,UK,Mid Market,Partner,Active
+C31094,2024-02-24,AU,Enterprise,self-serve,active
+C31095,01/01/2025,DE,Mid Market,Outbound,At Risk
+C31096,2024-01-16,,Mid Market,Outbound,active
+C31097,2025-08-25,CA,Mid Market,Outbound,Active
+C31098,2025-08-25,US,Enterprise,Outbound,Active
+C31099,2024-04-24,CA,,Partner,At Risk
+C31100,2025-07-17,DE,Enterprise,Outbound,Churned
+C31101,2024-09-14,UK,Mid Market,Self-Serve,Active
+C31102,2024-11-23,DE,Mid Market,Self-Serve,At Risk
+C31103,2025-10-11,AU,Startup,self-serve,At Risk
+C31104,2024-11-26,IN,Small Business,Outbound,Active
+C31105,2025-02-06,US,Enterprise,Self-Serve,Churned
+C31106,2025-11-18,,Small Business,Partner,Active
+C31107,2025-09-17,FR,Enterprise,Inbound,Active
+C31108,2024-03-31,,Small Business,Partner,active
+C31109,2024-05-14,US,Small Business,Outbound,active
+C31110,2024-03-09,US,,Inbound,Active
+C31111,2025-07-08,IN,Small Business,Outbound,Churned
+C31112,2025-07-17,US,Enterprise,Outbound,Active
+C31113,09/04/2024,AU,Enterprise,self-serve,At Risk
+C31114,04/01/2024,US,Mid Market,Inbound,At Risk
+C31115,2024-03-21,CA,Enterprise,Self-Serve,active
+C31116,2025-04-01,DE,,Partner,At Risk
+C31117,12/30/2024,CA,Mid Market,self-serve,Churned
+C31118,10/14/2025,US,Mid Market,self-serve,Churned
+C31119,2025-05-04,FR,Startup,Outbound,Churned
+C31120,2025-07-22,AU,,Inbound,active
+C31121,2025-05-21,US,Startup,Inbound,Churned
+C31122,2025-03-29,UK,Startup,Inbound,Active
+C31123,2024-09-25,,Startup,Outbound,Active
+C31124,2024-02-11,DE,Small Business,Outbound,At Risk
+C31125,2024-06-28,CA,Startup,self-serve,Active
+C31126,2025-06-30,IN,Startup,Outbound,At Risk
+C31127,2024-03-12,US,,Partner,Churned
+C31128,2025-04-24,,Startup,Self-Serve,At Risk
+C31129,2025-10-14,US,Enterprise,Partner,active
+C31130,2025-08-10,CA,Startup,Inbound,Churned
+C31131,2025-08-31,DE,Mid Market,Outbound,At Risk
+C31132,2024-08-14,AU,Mid Market,Partner,Active
+C31133,2024-08-08,,Small Business,Self-Serve,active
+C31134,2025-09-03,US,Enterprise,Self-Serve,active
+C31135,2024-11-22,US,,Partner,Active
+C31136,2025-10-13,AU,,Outbound,active
+C31137,2024-09-24,CA,Startup,Self-Serve,Churned
+C31138,2024-11-19,DE,,Self-Serve,At Risk
+C31139,10/19/2025,US,,self-serve,active
+C31140,2024-10-18,FR,,Self-Serve,active
+C31141,2024-05-01,UK,Small Business,Self-Serve,Active
+C31142,2024-04-21,US,Mid Market,Partner,active
+C31143,2024-11-29,FR,Startup,self-serve,Churned
+C31144,2024-01-02,US,Mid Market,Self-Serve,At Risk
+C31145,2025-10-12,US,Enterprise,Self-Serve,At Risk
+C31146,2024-11-03,AU,,Self-Serve,Active
+C31147,2025-01-21,FR,Startup,Outbound,At Risk
+C31148,2024-01-03,,Mid Market,Partner,At Risk
+C31149,2024-08-04,,Small Business,self-serve,Churned
+C31150,2024-10-24,CA,Mid Market,Inbound,At Risk
+C31151,2025-09-04,US,Enterprise,Outbound,At Risk
+C31152,2024-02-29,UK,Small Business,Self-Serve,Active
+C31153,2024-11-24,US,Mid Market,self-serve,active
+C31154,2025-09-12,AU,Small Business,Partner,Active
+C31155,2025-05-01,FR,Enterprise,Self-Serve,Churned
+C31156,2025-01-06,UK,Small Business,self-serve,At Risk
+C31157,2024-08-15,,Mid Market,Self-Serve,At Risk
+C31158,2024-03-08,US,Enterprise,self-serve,Churned
+C31159,2024-03-11,IN,Mid Market,Partner,active
+C31160,2024-01-28,US,Mid Market,Partner,Active
+C31161,2024-09-11,FR,Startup,Self-Serve,Active
+C31162,2025-11-22,DE,,Self-Serve,At Risk
+C31163,2025-05-13,DE,Mid Market,self-serve,Churned
+C31164,2024-05-15,US,Mid Market,Outbound,Active
+C31165,2025-05-08,AU,Enterprise,self-serve,At Risk
+C31166,2025-08-28,,Mid Market,Self-Serve,Active
+C31167,2025-09-09,FR,Startup,self-serve,Churned
+C31168,2024-05-31,UK,Enterprise,Self-Serve,active
+C31169,2024-02-23,,Enterprise,Partner,Churned
+C31170,2025-05-15,IN,Enterprise,Partner,Churned
+C31171,07/16/2025,CA,Small Business,Inbound,Churned
+C31172,2025-05-12,DE,Small Business,Self-Serve,Churned
+C31173,2024-04-04,DE,Startup,Self-Serve,Churned
+C31174,2024-08-14,US,Startup,Partner,active
+C31175,2025-07-14,US,Small Business,self-serve,Churned
+C31176,2024-01-30,DE,,self-serve,active
+C31177,2024-07-11,,Startup,Inbound,At Risk
+C31178,2025-04-21,CA,Startup,Partner,Active
+C31179,2024-05-21,CA,Mid Market,Partner,active
+C31180,2024-07-03,,Small Business,Inbound,active
+C31181,05/26/2024,AU,Enterprise,self-serve,active
+C31182,2025-11-08,US,Small Business,Partner,Churned
+C31183,2025-05-13,CA,Mid Market,self-serve,Churned
+C31184,2024-03-28,IN,Mid Market,Outbound,Active
+C31185,2024-09-19,DE,Startup,Self-Serve,Churned
+C31186,2024-07-30,US,Mid Market,Self-Serve,active
+C31187,2025-03-16,DE,Mid Market,Partner,active
+C31188,2024-07-10,UK,Startup,Inbound,Churned
+C31189,2024-02-03,UK,,Inbound,Churned
+C31190,2025-09-14,UK,Startup,self-serve,Active
+C31191,2025-07-17,US,Small Business,Partner,At Risk
+C31192,2024-11-26,AU,Startup,self-serve,Active
+C31193,03/28/2024,AU,,Outbound,Churned
+C31194,2024-12-22,IN,Enterprise,Partner,Churned
+C31195,2024-04-19,FR,,Outbound,Active
+C31196,2024-05-12,FR,Enterprise,self-serve,active
+C31197,2024-03-16,,Startup,Inbound,Active
+C31198,2024-12-10,AU,Startup,Partner,Active
+C31199,2024-04-07,DE,Mid Market,Outbound,Churned
+C31200,2024-10-10,DE,Mid Market,Partner,At Risk
+C31201,2025-07-25,AU,,Inbound,Churned
+C31202,2024-06-01,FR,,Self-Serve,Active
+C31203,2025-01-30,US,Small Business,Inbound,Active
+C31204,2025-01-01,AU,Mid Market,Outbound,Churned
+C31205,2024-03-23,UK,Startup,self-serve,Active
+C31206,2025-05-31,US,Enterprise,Inbound,Active
+C31207,2025-01-23,FR,Small Business,Inbound,Churned
+C31208,2025-06-06,US,Small Business,self-serve,At Risk
+C31209,2025-01-13,FR,Small Business,self-serve,Active
+C31210,2024-08-19,CA,Mid Market,self-serve,Churned
+C31211,2025-07-29,US,Mid Market,Self-Serve,Active
+C31212,2025-02-02,FR,Startup,self-serve,Active
+C31213,2024-08-07,US,Startup,Outbound,active
+C31214,06/06/2024,CA,,Self-Serve,Active
+C31215,02/05/2024,DE,Startup,Partner,active
+C31216,2024-04-14,UK,Mid Market,self-serve,Active
+C31217,2024-04-23,DE,Enterprise,Inbound,Active
+C31218,02/13/2024,US,Small Business,Outbound,active
+C31219,2025-09-27,,Startup,Outbound,Active
+C31220,2025-10-15,,Small Business,Partner,active
+C31221,2025-09-21,UK,Small Business,Self-Serve,active
+C31222,2025-01-29,DE,Small Business,Self-Serve,Active
+C31223,2025-04-11,CA,,self-serve,active
+C31224,2025-09-16,FR,Small Business,Self-Serve,Active
+C31225,2024-05-29,UK,Mid Market,Outbound,At Risk
+C31226,2024-08-17,FR,Mid Market,Self-Serve,Active
+C31227,2024-10-23,DE,,Outbound,Active
+C31228,2024-07-31,CA,Startup,Self-Serve,Active
+C31229,2025-06-09,,Mid Market,Outbound,At Risk
+C31230,05/27/2024,DE,Small Business,self-serve,active
+C31231,2024-11-07,,Startup,Self-Serve,Active
+C31232,2025-10-10,FR,,Outbound,active
+C31233,2025-02-28,US,Mid Market,Self-Serve,At Risk
+C31234,2024-12-11,DE,Mid Market,Inbound,active
+C31235,08/10/2025,US,,Partner,Active
+C31236,2024-02-15,CA,Enterprise,Self-Serve,active
+C31237,2025-01-31,DE,Small Business,Partner,Active
+C31238,2024-09-30,CA,Startup,Inbound,Active
+C31239,2025-04-25,IN,Mid Market,Partner,Active
+C31240,2024-05-02,AU,Enterprise,Self-Serve,Active
+C31241,2024-10-23,UK,Small Business,Inbound,At Risk
+C31242,2024-09-14,US,Enterprise,Self-Serve,Churned
+C31243,2024-05-09,,Enterprise,Self-Serve,Active
+C31244,2024-04-20,,Mid Market,self-serve,active
+C31245,2024-11-03,,,Inbound,Churned
+C31246,2024-12-19,FR,Enterprise,Inbound,active
+C31247,2025-11-07,FR,Startup,self-serve,Active
+C31248,2024-06-26,IN,Startup,Outbound,active
+C31249,2024-12-10,,Mid Market,Inbound,Churned
+C31250,2025-10-01,,Mid Market,Partner,At Risk
+C31251,2024-08-21,US,,Partner,Active
+C31252,2025-08-05,UK,Startup,Outbound,active
+C31253,2025-06-14,UK,Startup,self-serve,Churned
+C31254,11/26/2025,UK,,self-serve,Churned
+C31255,2025-01-08,IN,Enterprise,self-serve,active
+C31256,2025-08-06,,Enterprise,Outbound,Churned
+C31257,2024-08-18,UK,Startup,Outbound,active
+C31258,2024-04-23,IN,Mid Market,self-serve,Active
+C31259,2024-05-29,CA,,Self-Serve,At Risk
+C31260,2024-04-08,CA,Small Business,self-serve,At Risk
+C31261,2025-06-10,FR,Startup,Inbound,Active
+C31262,2024-06-20,,Mid Market,self-serve,Churned
+C31263,2025-04-14,IN,Small Business,Partner,active
+C31264,2025-10-12,,Mid Market,Outbound,active
+C31265,2024-06-15,FR,Enterprise,Partner,Churned
+C31266,06/08/2024,DE,Small Business,Partner,Churned
+C31267,2025-05-10,AU,,Self-Serve,active
+C31268,2024-03-17,,Startup,Outbound,active
+C31269,2024-01-24,AU,,Self-Serve,active
+C31270,2025-01-03,DE,,Partner,active
+C31271,2024-12-16,,Startup,self-serve,At Risk
+C31272,2024-04-24,CA,Small Business,Partner,Active
+C31273,2025-10-12,DE,Startup,self-serve,active
+C31274,2024-11-03,FR,Mid Market,Self-Serve,At Risk
+C31275,2025-03-18,IN,Small Business,Inbound,Churned
+C31276,2024-04-17,IN,Mid Market,self-serve,At Risk
+C31277,2024-04-14,AU,Startup,Partner,Churned
+C31278,2024-10-10,US,Startup,Self-Serve,Churned
+C31279,2024-04-03,AU,,Partner,Churned
+C31280,2025-03-31,AU,,Outbound,At Risk
+C31281,2024-02-02,DE,,Inbound,At Risk
+C31282,2024-09-16,,Startup,self-serve,Churned
+C31283,2025-03-01,US,Startup,Inbound,Active
+C31284,2025-03-25,UK,Startup,Self-Serve,At Risk
+C31285,2025-10-30,US,,Partner,active
+C31286,03/27/2025,IN,,Self-Serve,Churned
+C31287,2024-07-13,UK,Startup,self-serve,Churned
+C31288,03/14/2025,AU,,Inbound,Churned
+C31289,2024-03-29,FR,,Partner,Active
+C31290,2024-01-11,,Small Business,Partner,Active
+C31291,2025-07-01,AU,Enterprise,Inbound,Churned
+C31292,2025-01-20,,Mid Market,Self-Serve,At Risk
+C31293,2024-10-04,US,,Partner,Churned
+C31294,2025-11-15,DE,,Self-Serve,At Risk
+C31295,04/07/2025,AU,Enterprise,self-serve,Churned
+C31296,03/16/2025,AU,,self-serve,At Risk
+C31297,2025-08-15,IN,Small Business,Outbound,Active
+C31298,2025-04-30,,Small Business,Inbound,Active
+C31299,2025-05-23,AU,Startup,Outbound,Active
+C31300,2024-09-25,,Small Business,self-serve,active
+C31301,2024-04-19,IN,,Inbound,Churned
+C31302,2025-08-16,AU,,Self-Serve,active
+C31303,2024-03-14,,Enterprise,self-serve,Churned
+C31304,2024-10-25,AU,Small Business,Partner,At Risk
+C31305,2025-07-18,IN,Startup,Inbound,active
+C31306,2024-05-14,DE,Startup,Partner,active
+C31307,2025-11-16,AU,Startup,Partner,active
+C31308,2025-10-22,AU,Enterprise,Partner,At Risk
+C31309,2025-06-05,UK,Startup,Self-Serve,active
+C31310,2025-08-29,IN,,Partner,active
+C31311,2025-10-04,US,Startup,self-serve,active
+C31312,2024-03-17,CA,Small Business,Inbound,At Risk
+C31313,2025-05-01,US,,Inbound,Churned
+C31314,2025-11-21,FR,Small Business,Inbound,Active
+C31315,2024-12-12,IN,Small Business,Self-Serve,active
+C31316,2025-03-09,,,Self-Serve,At Risk
+C31317,2024-03-22,CA,Small Business,Self-Serve,active
+C31318,2025-05-20,US,Small Business,Partner,At Risk
+C31319,2025-06-03,IN,Mid Market,Outbound,Active
+C31320,01/11/2024,CA,,Self-Serve,At Risk
+C31321,2025-10-30,FR,Small Business,Self-Serve,Churned
+C31322,2025-06-03,FR,,Partner,Churned
+C31323,2025-07-08,UK,Small Business,self-serve,active
+C31324,2024-06-22,,Small Business,Outbound,Churned
+C31325,2024-11-30,UK,Small Business,Outbound,active
+C31326,2025-05-04,AU,Mid Market,Outbound,At Risk
+C31327,2024-12-20,US,,Outbound,active
+C31328,2025-11-22,IN,Startup,Partner,Active
+C31329,2024-06-26,FR,Small Business,Outbound,At Risk
+C31330,2024-04-20,AU,Mid Market,self-serve,Active
+C31331,2024-05-30,US,Small Business,Self-Serve,Active
+C31332,2025-04-25,UK,Startup,self-serve,active
+C31333,2024-12-29,US,Startup,Self-Serve,Churned
+C31334,2024-06-22,US,Small Business,Outbound,Churned
+C31335,2025-03-30,IN,Startup,Self-Serve,active
+C31336,02/11/2024,US,,self-serve,active
+C31337,2025-06-30,DE,Enterprise,Outbound,Churned
+C31338,2024-05-04,IN,,self-serve,active
+C31339,2025-05-12,,,Partner,active
+C31340,2025-08-24,US,Enterprise,Outbound,Churned
+C31341,2024-01-07,CA,Startup,Partner,Churned
+C31342,2024-02-26,US,Startup,Inbound,At Risk
+C31343,2024-09-12,DE,Startup,Inbound,At Risk
+C31344,2024-01-09,CA,Mid Market,Partner,Active
+C31345,2025-06-05,US,Small Business,Partner,Active
+C31346,2024-10-25,DE,,Self-Serve,Active
+C31347,2025-02-01,IN,Startup,Partner,Active
+C31348,04/20/2024,DE,Startup,Partner,At Risk
+C31349,2024-05-30,FR,Startup,Self-Serve,active
+C31350,2025-10-29,UK,Startup,self-serve,At Risk
+C31351,2024-07-09,AU,Startup,Partner,Churned
+C31352,2024-02-03,FR,,Partner,At Risk
+C31353,2025-02-24,IN,Small Business,Self-Serve,At Risk
+C31354,2024-11-18,CA,Enterprise,Inbound,At Risk
+C31355,2025-08-13,UK,Startup,Self-Serve,At Risk
+C31356,2025-10-29,DE,Mid Market,Self-Serve,Active
+C31357,2024-12-11,UK,Startup,Inbound,At Risk
+C31358,2024-09-16,UK,Mid Market,Inbound,active
+C31359,2025-06-02,US,Mid Market,Outbound,Churned
+C31360,2024-03-09,,Enterprise,Partner,At Risk
+C31361,2025-07-15,AU,Mid Market,Partner,At Risk
+C31362,2024-04-24,UK,,self-serve,Churned
+C31363,10/15/2025,UK,,Inbound,Churned
+C31364,2025-07-18,FR,Mid Market,self-serve,At Risk
+C31365,07/15/2024,CA,Mid Market,Inbound,Active
+C31366,2024-02-22,IN,Startup,Partner,Active
+C31367,08/11/2025,IN,Small Business,Self-Serve,Churned
+C31368,09/22/2024,DE,,Self-Serve,At Risk
+C31369,2025-10-25,DE,Mid Market,Outbound,Churned
+C31370,2024-01-27,,Small Business,Partner,Churned
+C31371,2025-08-23,AU,,Inbound,At Risk
+C31372,2025-09-03,AU,Enterprise,Outbound,Churned
+C31373,2024-12-15,FR,Mid Market,self-serve,Churned
+C31374,2025-06-27,,Small Business,self-serve,Active
+C31375,2025-02-01,CA,Enterprise,Inbound,At Risk
+C31376,2025-09-21,,Small Business,Partner,At Risk
+C31377,2025-05-21,DE,Small Business,Partner,Active
+C31378,2024-06-01,CA,Enterprise,Self-Serve,Active
+C31379,2025-01-08,US,Startup,Inbound,Churned
+C31380,2025-01-23,,Mid Market,self-serve,At Risk
+C31381,2025-07-06,,,Inbound,At Risk
+C31382,2025-11-19,FR,Startup,Partner,Churned
+C31383,2024-06-29,AU,Small Business,Outbound,At Risk
+C31384,2024-09-08,US,Startup,Inbound,active
+C31385,2025-10-29,,Enterprise,Outbound,Churned
+C31386,2024-09-20,CA,Mid Market,Partner,active
+C31387,03/12/2024,FR,Small Business,self-serve,active
+C31388,2025-08-17,FR,Enterprise,Inbound,At Risk
+C31389,2025-08-11,CA,Mid Market,Outbound,Churned
+C31390,2025-06-05,UK,Small Business,Self-Serve,At Risk
+C31391,2025-09-30,FR,,Inbound,active
+C31392,2024-09-13,US,Mid Market,Inbound,At Risk
+C31393,2025-06-13,DE,Mid Market,Outbound,At Risk
+C31394,2024-01-04,CA,,Partner,active
+C31395,04/19/2024,CA,,Self-Serve,active
+C31396,2024-02-07,FR,Mid Market,Inbound,Churned
+C31397,2024-10-06,AU,Enterprise,Inbound,Churned
+C31398,2024-03-22,AU,Startup,Inbound,At Risk
+C31399,2025-05-08,FR,Startup,Partner,Churned
+C31400,2024-09-22,DE,Enterprise,Outbound,At Risk
+C31401,2025-03-20,AU,,Inbound,Churned
+C31402,2024-12-09,IN,Enterprise,Inbound,Active
+C31403,2025-09-18,DE,Small Business,Inbound,active
+C31404,2025-06-13,,Mid Market,Partner,Churned
+C31405,2025-07-16,AU,,Self-Serve,active
+C31406,2024-07-24,FR,Startup,Outbound,At Risk
+C31407,2024-08-23,,Small Business,Outbound,Active
+C31408,2024-08-02,UK,Mid Market,Self-Serve,At Risk
+C31409,2025-09-26,US,Mid Market,Self-Serve,At Risk
+C31410,2025-02-10,,Enterprise,Self-Serve,Churned
+C31411,2025-03-29,AU,Small Business,Partner,active
+C31412,2024-11-07,IN,,Self-Serve,Churned
+C31413,2024-12-01,,,Outbound,active
+C31414,2025-06-03,UK,Mid Market,Partner,active
+C31415,2024-03-27,US,Enterprise,self-serve,Churned
+C31416,2024-06-20,UK,Mid Market,Outbound,active
+C31417,2024-05-05,,Small Business,Self-Serve,Churned
+C31418,2024-02-04,IN,,Inbound,active
+C31419,2024-12-08,UK,Startup,self-serve,Active
+C31420,2025-02-13,,Mid Market,Inbound,At Risk
+C31421,2024-12-10,CA,Mid Market,self-serve,At Risk
+C31422,06/23/2024,CA,Enterprise,self-serve,Churned
+C31423,2025-02-20,DE,Enterprise,Self-Serve,Active
+C31424,2025-07-02,FR,Mid Market,Partner,At Risk
+C31425,2025-10-12,UK,Startup,self-serve,Churned
+C31426,2024-06-03,AU,Small Business,self-serve,Churned
+C31427,2024-12-08,AU,Mid Market,Partner,Active
+C31428,2024-07-19,IN,Startup,Outbound,Active
+C31429,2024-10-16,FR,Enterprise,Partner,Active
+C31430,2025-08-22,AU,Mid Market,Outbound,active
+C31431,2025-07-03,,Small Business,Inbound,Active
+C31432,2025-05-01,US,Small Business,Inbound,At Risk
+C31433,2025-04-01,IN,Startup,Self-Serve,Churned
+C31434,2025-10-09,IN,Mid Market,self-serve,Active
+C31435,04/23/2025,CA,,self-serve,Active
+C31436,2024-03-13,IN,Small Business,Partner,Churned
+C31437,2024-07-08,IN,Startup,Outbound,At Risk
+C31438,2024-06-27,IN,Enterprise,Self-Serve,active
+C31439,2025-04-16,UK,Small Business,Outbound,Active
+C31440,2025-05-31,AU,Mid Market,self-serve,active
+C31441,2024-11-26,UK,Mid Market,Inbound,Active
+C31442,2024-08-26,UK,Mid Market,Partner,At Risk
+C31443,2025-08-22,US,Mid Market,self-serve,Churned
+C31444,2024-03-21,US,Enterprise,self-serve,Active
+C31445,2024-10-07,CA,,Inbound,Active
+C31446,2025-07-02,FR,,Inbound,At Risk
+C31447,2024-10-27,CA,Enterprise,self-serve,active
+C31448,2024-06-17,,Mid Market,Self-Serve,Churned
+C31449,2025-01-07,AU,Mid Market,Partner,Churned
+C31450,2025-01-08,,Small Business,Self-Serve,active
+C31451,2024-04-04,FR,Mid Market,Self-Serve,active
+C31452,2024-03-20,CA,Mid Market,Inbound,Churned
+C31453,02/08/2025,AU,Small Business,Partner,At Risk
+C31454,2025-06-06,CA,Enterprise,Partner,Churned
+C31455,2024-08-24,AU,Enterprise,Outbound,Churned
+C31456,2024-01-15,CA,,self-serve,Churned
+C31457,2024-09-10,CA,Small Business,Partner,Churned
+C31458,2024-10-20,,Enterprise,Partner,Active
+C31459,2024-09-22,IN,,self-serve,At Risk
+C31460,2024-08-14,FR,Small Business,Self-Serve,Churned
+C31461,2024-12-30,AU,,Inbound,Active
+C31462,2024-03-08,UK,Startup,Inbound,Active
+C31463,2024-05-17,US,,Inbound,active
+C31464,2025-11-21,US,Mid Market,Inbound,Active
+C31465,2025-01-03,AU,Startup,Self-Serve,Active
+C31466,2024-10-04,IN,Small Business,Inbound,At Risk
+C31467,2024-05-03,CA,Startup,Partner,Churned
+C31468,2025-03-08,IN,Startup,Outbound,active
+C31469,06/05/2025,AU,Mid Market,Outbound,Active
+C31470,2024-02-21,,,Self-Serve,Active
+C31471,2025-04-09,IN,Small Business,self-serve,At Risk
+C31472,2025-04-23,US,Enterprise,Self-Serve,Active
+C31473,2025-05-14,US,Small Business,Inbound,At Risk
+C31474,2024-09-16,AU,Mid Market,Inbound,Active
+C31475,2025-04-12,US,Startup,Partner,active
+C31476,2025-11-03,AU,Small Business,Self-Serve,Active
+C31477,2025-09-18,AU,,self-serve,At Risk
+C31478,2024-01-03,AU,Mid Market,Inbound,active
+C31479,2024-02-06,DE,Startup,self-serve,Active
+C31480,2024-06-28,DE,,self-serve,active
+C31481,2024-02-10,CA,,Self-Serve,Churned
+C31482,2024-12-28,UK,Small Business,self-serve,At Risk
+C31483,2025-03-30,DE,Enterprise,Outbound,Churned
+C31484,2025-08-23,AU,Small Business,Outbound,At Risk
+C31485,2024-09-24,IN,Small Business,Self-Serve,At Risk
+C31486,2024-06-23,FR,Startup,Partner,active
+C31487,2024-02-18,FR,Startup,Inbound,Churned
+C31488,2025-07-07,,Enterprise,self-serve,Churned
+C31489,2024-05-20,US,Enterprise,Outbound,At Risk
+C31490,2025-07-02,FR,Mid Market,Partner,active
+C31491,2024-07-16,AU,,Inbound,active
+C31492,2024-05-04,UK,,Partner,At Risk
+C31493,2024-11-17,AU,Startup,Outbound,active
+C31494,2025-05-22,FR,Enterprise,Partner,active
+C31495,2024-02-08,FR,Small Business,Inbound,active
+C31496,2024-07-21,DE,Enterprise,Partner,Active
+C31497,2024-09-13,FR,Mid Market,self-serve,At Risk
+C31498,2024-10-28,CA,,Outbound,At Risk
+C31499,2024-01-31,US,Startup,Partner,Churned
+C31500,2024-05-29,FR,Small Business,Partner,At Risk
+C31501,2024-06-20,UK,Mid Market,Self-Serve,Active
+C31502,2025-07-01,FR,,Inbound,At Risk
+C31503,2025-03-09,US,Startup,Self-Serve,active
+C31504,2025-01-21,US,Enterprise,Inbound,Active
+C31505,2025-05-04,UK,Mid Market,Outbound,Churned
+C31506,07/28/2025,IN,Small Business,Self-Serve,At Risk
+C31507,2024-06-29,FR,Small Business,Outbound,Churned
+C31508,2025-10-21,,Enterprise,Inbound,Churned
+C31509,2024-06-17,US,Mid Market,self-serve,Active
+C31510,2025-08-16,,,Partner,active
+C31511,2025-01-08,CA,Small Business,Self-Serve,Active
+C31512,2025-09-13,DE,Enterprise,Inbound,Churned
+C31513,2024-12-20,DE,Small Business,Partner,At Risk
+C31514,2024-12-04,FR,,Partner,At Risk
+C31515,2024-08-16,UK,Startup,Partner,At Risk
+C31516,2025-09-15,US,,Inbound,Churned
+C31517,2024-04-12,FR,Startup,Outbound,Active
+C31518,2025-03-02,IN,Startup,self-serve,Churned
+C31519,03/04/2024,IN,Mid Market,Inbound,Active
+C31520,2025-09-11,FR,Small Business,Inbound,active
+C31521,2024-12-24,US,Enterprise,Partner,Churned
+C31522,2024-04-27,IN,,Partner,Churned
+C31523,2024-11-26,AU,Enterprise,Self-Serve,Active
+C31524,2024-01-02,AU,,Self-Serve,At Risk
+C31525,2025-06-11,CA,Enterprise,Inbound,Active
+C31526,2025-05-04,AU,Startup,Inbound,At Risk
+C31527,2025-01-23,UK,Mid Market,Inbound,Churned
+C31528,2025-05-06,UK,Enterprise,Outbound,At Risk
+C31529,04/29/2025,CA,Enterprise,Outbound,Active
+C31530,2024-08-25,UK,,Outbound,At Risk
+C31531,2024-07-13,,Startup,Self-Serve,active
+C31532,11/21/2024,US,,Outbound,At Risk
+C31533,2024-10-02,AU,,self-serve,Active
+C31534,2024-12-29,,Startup,Inbound,Active
+C31535,2025-01-19,DE,Small Business,Self-Serve,At Risk
+C31536,2025-02-23,UK,Small Business,Inbound,Active
+C31537,2024-03-24,CA,,Inbound,active
+C31538,2025-09-13,UK,Small Business,Outbound,active
+C31539,2025-03-26,AU,Mid Market,Outbound,active
+C31540,2024-10-17,DE,Small Business,Inbound,At Risk
+C31541,2024-08-27,,Startup,self-serve,active
+C31542,2024-09-03,FR,Startup,Outbound,At Risk
+C31543,2024-03-20,IN,Startup,Outbound,Churned
+C31544,2025-07-07,,Enterprise,self-serve,At Risk
+C31545,2024-10-07,US,Enterprise,Partner,Active
+C31546,06/27/2024,,,self-serve,Churned
+C31547,2024-12-02,US,,Self-Serve,active
+C31548,2024-12-25,AU,Enterprise,Partner,Churned
+C31549,2025-10-07,DE,,Partner,Churned
+C31550,2025-06-12,CA,Startup,Self-Serve,active
+C31551,2024-02-26,,,self-serve,Active
+C31552,2025-11-03,AU,Enterprise,Outbound,active
+C31553,2025-09-07,CA,Small Business,Outbound,Churned
+C31554,2024-02-26,CA,Small Business,self-serve,active
+C31555,10/02/2025,,Small Business,self-serve,active
+C31556,2025-09-25,IN,,Self-Serve,Churned
+C31557,12/01/2024,AU,Startup,Partner,Churned
+C31558,2024-03-08,CA,Startup,Self-Serve,At Risk
+C31559,2025-05-30,DE,Mid Market,Self-Serve,active
+C31560,2025-04-11,IN,Startup,Partner,Churned
+C31561,2025-04-26,US,Small Business,Outbound,Active
+C31562,2025-01-29,IN,Startup,Partner,Churned
+C31563,2025-11-01,,Mid Market,Partner,Active
+C31564,2025-05-25,IN,,Inbound,At Risk
+C31565,2024-07-08,IN,Enterprise,Partner,Active
+C31566,2024-09-20,FR,Enterprise,Outbound,active
+C31567,06/19/2024,DE,Startup,Outbound,Churned
+C31568,2025-04-09,UK,Enterprise,Self-Serve,Active
+C31569,2025-05-13,FR,Enterprise,Self-Serve,Churned
+C31570,2025-03-06,DE,,self-serve,Churned
+C31571,2024-06-25,CA,Startup,Outbound,Churned
+C31572,2024-08-14,IN,Small Business,self-serve,active
+C31573,2024-09-14,US,,Partner,At Risk
+C31574,2024-03-31,CA,,self-serve,Active
+C31575,2025-04-04,FR,Enterprise,Outbound,Active
+C31576,2024-06-19,AU,,Outbound,active
+C31577,2025-04-18,CA,Mid Market,Outbound,Churned
+C31578,2025-07-13,UK,Mid Market,Partner,Active
+C31579,2025-08-08,UK,Startup,Self-Serve,active
+C31580,2025-02-06,CA,Startup,self-serve,Active
+C31581,2024-10-06,UK,Startup,Outbound,Active
+C31582,06/07/2025,DE,,Inbound,active
+C31583,2024-02-13,DE,Mid Market,Inbound,active
+C31584,2025-09-22,CA,Small Business,Self-Serve,Churned
+C31585,2025-10-17,FR,Startup,Inbound,Churned
+C31586,2025-04-23,UK,Small Business,Outbound,Churned
+C31587,2024-09-20,UK,,self-serve,At Risk
+C31588,2025-10-24,IN,,self-serve,Churned
+C31589,2024-06-05,DE,Enterprise,Outbound,active
+C31590,04/10/2024,AU,Small Business,Partner,At Risk
+C31591,2024-07-28,AU,Enterprise,Inbound,active
+C31592,2025-08-22,UK,Mid Market,Outbound,At Risk
+C31593,2025-11-30,US,Mid Market,Partner,At Risk
+C31594,2024-10-02,UK,Small Business,Self-Serve,Active
+C31595,2025-04-26,US,Startup,Self-Serve,active
+C31596,2025-07-29,AU,Small Business,Self-Serve,Churned
+C31597,2024-09-15,FR,Small Business,Self-Serve,active
+C31598,2024-06-10,UK,Enterprise,Self-Serve,Active
+C31599,2024-03-20,UK,Mid Market,Partner,Active
+C31600,2024-09-28,US,,self-serve,Churned
+C31601,2025-03-27,DE,Enterprise,Self-Serve,At Risk
+C31602,2025-11-29,AU,Enterprise,Partner,active
+C31603,2025-05-06,DE,Small Business,Partner,At Risk
+C31604,2024-11-16,CA,Mid Market,Outbound,active
+C31605,2024-03-19,US,Mid Market,Partner,Active
+C31606,2024-08-16,IN,,Partner,Active
+C31607,2024-01-28,,Small Business,self-serve,active
+C31608,2025-04-25,FR,Mid Market,Outbound,Churned
+C31609,2025-09-22,AU,Mid Market,self-serve,At Risk
+C31610,2024-09-09,IN,,Self-Serve,active
+C31611,2024-04-22,DE,Enterprise,self-serve,active
+C31612,2024-09-14,IN,,Partner,active
+C31613,2025-08-01,CA,Mid Market,Outbound,At Risk
+C31614,2025-07-19,DE,Enterprise,Self-Serve,Active
+C31615,06/02/2025,AU,Startup,Outbound,Active
+C31616,2024-12-22,FR,Mid Market,Outbound,At Risk
+C31617,2024-07-06,CA,Startup,Partner,Active
+C31618,2025-06-07,DE,Enterprise,Partner,active
+C31619,2025-04-03,IN,Mid Market,self-serve,Churned
+C31620,07/15/2024,DE,,Inbound,active
+C31621,2025-05-22,AU,Startup,Partner,active
+C31622,2025-04-24,US,Startup,self-serve,Churned
+C31623,2024-05-07,FR,Mid Market,Outbound,Active
+C31624,2024-01-13,,Small Business,Self-Serve,At Risk
+C31625,2024-08-03,AU,,Inbound,active
+C31626,2025-01-02,CA,Small Business,Inbound,Churned
+C31627,2024-05-29,FR,Mid Market,Self-Serve,Active
+C31628,2025-10-13,CA,Small Business,Self-Serve,Active
+C31629,2025-01-29,IN,Small Business,Partner,Churned
+C31630,2025-03-25,AU,Startup,Outbound,Churned
+C31631,2025-05-03,FR,,Partner,At Risk
+C31632,2024-08-29,IN,Mid Market,Outbound,active
+C31633,08/18/2024,DE,Startup,self-serve,Churned
+C31634,2024-05-30,UK,Mid Market,Partner,Active
+C31635,2024-01-24,FR,Mid Market,Self-Serve,active
+C31636,08/01/2025,UK,Enterprise,self-serve,active
+C31637,2025-11-05,FR,Small Business,Inbound,At Risk
+C31638,2024-04-19,CA,,Partner,Active
+C31639,2024-11-05,UK,,Self-Serve,Active
+C31640,2025-07-31,DE,Startup,Partner,At Risk
+C31641,2024-08-06,IN,,Partner,Churned
+C31642,2024-02-16,FR,Mid Market,self-serve,At Risk
+C31643,2025-07-01,CA,,Outbound,At Risk
+C31644,2025-03-26,AU,,Self-Serve,active
+C31645,2024-04-20,DE,Mid Market,Inbound,Active
+C31646,2024-02-04,,Mid Market,Partner,At Risk
+C31647,2025-01-11,CA,Mid Market,Partner,Active
+C31648,2024-10-08,IN,,Outbound,Active
+C31649,2024-03-27,IN,Startup,self-serve,active
+C31650,2025-07-30,IN,,self-serve,Active
+C31651,2024-04-16,CA,Mid Market,Partner,active
+C31652,04/05/2024,DE,Startup,Self-Serve,Active
+C31653,2024-01-29,FR,Startup,Inbound,Churned
+C31654,2024-04-19,UK,Enterprise,Outbound,Churned
+C31655,2025-04-10,FR,,self-serve,Active
+C31656,2024-08-22,UK,Enterprise,Self-Serve,Churned
+C31657,2024-01-08,FR,Mid Market,self-serve,At Risk
+C31658,2025-02-23,CA,Enterprise,Inbound,Churned
+C31659,2024-11-19,CA,,Self-Serve,Active
+C31660,2024-04-28,DE,Mid Market,Partner,Churned
+C31661,2025-08-23,AU,Mid Market,self-serve,At Risk
+C31662,2025-10-18,UK,Small Business,Self-Serve,At Risk
+C31663,2024-06-05,FR,Mid Market,Partner,Active
+C31664,2025-04-04,AU,Enterprise,Outbound,At Risk
+C31665,2024-04-21,CA,,Outbound,At Risk
+C31666,2024-04-04,CA,Small Business,Inbound,Active
+C31667,2024-01-09,US,Enterprise,Self-Serve,Active
+C31668,11/24/2024,,Mid Market,Outbound,active
+C31669,2024-10-28,UK,Enterprise,Outbound,active
+C31670,2024-05-13,US,Enterprise,Partner,Active
+C31671,2025-11-16,UK,Startup,Partner,active
+C31672,2025-11-29,US,Small Business,Self-Serve,Active
+C31673,2024-03-15,IN,,self-serve,Active
+C31674,2025-07-11,,Mid Market,Partner,active
+C31675,2024-10-29,US,Small Business,Outbound,active
+C31676,2024-04-12,UK,Mid Market,Inbound,active
+C31677,2025-11-16,DE,Startup,Partner,At Risk
+C31678,2025-03-26,,Mid Market,Partner,Active
+C31679,2024-09-04,CA,Enterprise,Self-Serve,Active
+C31680,2025-07-08,UK,Small Business,Self-Serve,Active
+C31681,2024-06-27,DE,,Inbound,Churned
+C31682,2025-02-24,FR,Startup,Self-Serve,Churned
+C31683,2025-11-16,,Startup,Outbound,Churned
+C31684,2024-10-28,AU,Enterprise,Outbound,active
+C31685,2024-04-08,AU,Mid Market,Outbound,At Risk
+C31686,2024-07-07,,Mid Market,Partner,Active
+C31687,2024-10-18,UK,Small Business,Inbound,active
+C31688,2024-12-24,CA,Startup,Self-Serve,active
+C31689,2024-01-12,,Enterprise,Outbound,At Risk
+C31690,2024-09-06,,Mid Market,Self-Serve,Churned
+C31691,2025-11-06,AU,Startup,Outbound,Active
+C31692,2024-02-26,US,Enterprise,self-serve,At Risk
+C31693,2024-09-10,US,,Self-Serve,At Risk
+C31694,2024-10-18,DE,,Inbound,Churned
+C31695,2024-10-12,AU,Small Business,Self-Serve,active
+C31696,10/23/2024,US,,Outbound,Active
+C31697,2024-06-23,US,Enterprise,Self-Serve,At Risk
+C31698,2025-04-26,US,Small Business,self-serve,Churned
+C31699,2025-07-11,FR,Small Business,Self-Serve,active
+C31700,2024-07-13,CA,Enterprise,self-serve,Churned
+C31701,2024-03-19,AU,Small Business,Inbound,active
+C31702,2025-08-31,FR,,Self-Serve,active
+C31703,2024-07-31,US,Mid Market,self-serve,active
+C31704,2025-05-04,AU,,self-serve,At Risk
+C31705,2025-03-11,US,Enterprise,Partner,At Risk
+C31706,2025-03-20,IN,Small Business,self-serve,active
+C31707,2025-11-19,DE,Small Business,Inbound,At Risk
+C31708,11/26/2025,CA,,Inbound,active
+C31709,2024-02-23,US,Startup,Inbound,Churned
+C31710,2025-07-14,IN,Startup,Partner,At Risk
+C31711,2024-11-14,UK,Enterprise,Self-Serve,Active
+C31712,2025-05-25,US,,Self-Serve,At Risk
+C31713,2025-04-25,CA,Mid Market,Partner,Churned
+C31714,2024-02-27,US,Startup,Outbound,At Risk
+C31715,2025-09-02,CA,Small Business,Self-Serve,Churned
+C31716,2024-01-05,AU,Small Business,Partner,At Risk
+C31717,2024-09-15,,Small Business,self-serve,active
+C31718,2024-12-10,UK,Enterprise,Outbound,Active
+C31719,2025-06-23,CA,Enterprise,self-serve,active
+C31720,2025-04-27,AU,Startup,Partner,At Risk
+C31721,2025-10-08,IN,Small Business,self-serve,At Risk
+C31722,2025-05-14,,Small Business,Inbound,Churned
+C31723,2025-02-28,US,Small Business,Partner,At Risk
+C31724,2025-04-28,AU,Enterprise,Partner,At Risk
+C31725,2025-05-19,AU,Enterprise,Outbound,At Risk
+C31726,2024-02-12,DE,,Self-Serve,Churned
+C31727,2025-05-13,US,Small Business,Self-Serve,At Risk
+C31728,2024-10-15,FR,Enterprise,Self-Serve,Churned
+C31729,2024-12-25,CA,,self-serve,At Risk
+C31730,2025-11-30,US,Mid Market,Partner,Churned
+C31731,2025-09-09,US,Startup,Outbound,Churned
+C31732,2025-01-14,US,Mid Market,Outbound,Churned
+C31733,2024-06-15,AU,,self-serve,active
+C31734,10/08/2025,IN,,Self-Serve,Churned
+C31735,2025-01-28,AU,Mid Market,self-serve,Active
+C31736,2024-05-06,FR,Small Business,self-serve,Churned
+C31737,2025-07-20,,Mid Market,Partner,Churned
+C31738,2025-08-02,AU,,Partner,Churned
+C31739,2024-04-23,UK,,self-serve,Active
+C31740,2024-07-10,CA,Mid Market,Self-Serve,Active
+C31741,2025-06-08,DE,Startup,Outbound,At Risk
+C31742,2024-10-21,UK,Mid Market,Inbound,Active
+C31743,2024-11-12,US,Enterprise,Outbound,At Risk
+C31744,2024-08-08,UK,Mid Market,Outbound,Churned
+C31745,2024-10-03,IN,,Inbound,Active
+C31746,05/28/2024,DE,,Outbound,At Risk
+C31747,2025-10-21,UK,,Self-Serve,At Risk
+C31748,2024-07-12,,Small Business,self-serve,Churned
+C31749,2025-04-15,DE,Mid Market,Self-Serve,Active
+C31750,2025-06-06,CA,Small Business,Inbound,Active
+C31751,2025-09-08,CA,,Self-Serve,Active
+C31752,2025-10-04,IN,Startup,self-serve,At Risk
+C31753,11/14/2024,CA,Startup,Outbound,Churned
+C31754,2025-05-30,UK,Small Business,Self-Serve,At Risk
+C31755,2024-01-06,DE,Enterprise,self-serve,At Risk
+C31756,2025-03-13,AU,Enterprise,self-serve,active
+C31757,2024-07-19,CA,Small Business,self-serve,active
+C31758,2024-03-27,DE,Mid Market,Inbound,At Risk
+C31759,2024-09-01,FR,,Inbound,Active
+C31760,2024-12-18,US,Small Business,Partner,Churned
+C31761,2024-07-24,CA,Enterprise,Self-Serve,Churned
+C31762,2025-01-29,IN,Startup,Outbound,Churned
+C31763,2024-09-16,UK,Enterprise,Outbound,At Risk
+C31764,2024-08-31,UK,Small Business,Inbound,active
+C31765,2025-04-14,FR,Startup,Outbound,Churned
+C31766,2024-12-04,DE,Startup,self-serve,Churned
+C31767,2024-09-03,UK,Enterprise,Inbound,active
+C31768,2025-02-24,AU,Mid Market,Self-Serve,At Risk
+C31769,2024-01-15,DE,Startup,self-serve,Churned
+C31770,2025-02-03,AU,,Self-Serve,active
+C31771,2025-03-24,IN,Small Business,Outbound,active
+C31772,2024-11-20,DE,Startup,Outbound,active
+C31773,2024-12-03,FR,,self-serve,Churned
+C31774,2024-01-12,CA,Mid Market,Outbound,Churned
+C31775,01/14/2024,CA,Mid Market,Inbound,Active
+C31776,02/22/2025,DE,Small Business,Self-Serve,Churned
+C31777,2024-11-06,IN,Startup,Self-Serve,At Risk
+C31778,2024-01-08,US,,Inbound,Active
+C31779,10/28/2024,AU,Mid Market,self-serve,Active
+C31780,2025-01-02,AU,,Outbound,At Risk
+C31781,2025-03-05,FR,Mid Market,Partner,Active
+C31782,2025-11-29,DE,Mid Market,Partner,Active
+C31783,2025-11-12,UK,Startup,Outbound,Churned
+C31784,2024-04-30,AU,Enterprise,Partner,Active
+C31785,2025-07-04,CA,Startup,Outbound,active
+C31786,2024-06-04,DE,Small Business,self-serve,Active
+C31787,2024-08-17,UK,Enterprise,Inbound,Active
+C31788,2025-11-27,IN,Enterprise,self-serve,At Risk
+C31789,2024-11-20,US,Mid Market,self-serve,active
+C31790,2025-11-21,US,Enterprise,Partner,active
+C31791,2025-06-01,US,Enterprise,Self-Serve,active
+C31792,2024-08-11,DE,Small Business,Self-Serve,Churned
+C31793,2025-01-06,,Startup,Partner,active
+C31794,2025-04-09,FR,,Partner,At Risk
+C31795,2024-02-23,CA,Enterprise,Self-Serve,Active
+C31796,2025-04-07,DE,Startup,Partner,active
+C31797,2024-02-02,AU,Enterprise,self-serve,active
+C31798,2025-02-12,AU,Small Business,Outbound,At Risk
+C31799,2024-03-06,IN,Small Business,Inbound,Active
